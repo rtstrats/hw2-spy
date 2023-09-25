@@ -1,0 +1,905 @@
+$red1: red;
+$red1dark: darkred;
+$red2: yellow;
+$red2dark: darkgoldenrod;
+$red3: orange;
+$red3dark: darkorange;
+$blue1: blue;
+$blue1dark: darkblue;
+$blue2: cyan;
+$blue2dark: darkcyan;
+$blue3: green;
+$blue3dark: darkgreen;
+
+HW2SpyApp {
+    layer: back;
+    background: $background;
+}
+
+Screen {
+    layers: back front;
+}
+
+ModalScreen {
+    align: center middle;
+}
+
+Player {
+    layout: vertical;
+    background: $background;
+    height: 100%;
+    margin: 0;
+    width: 1fr;
+    padding: 0;
+    scrollbar-size: 1 1;
+}
+
+Match {
+    border: double blue;
+    border_title_color: white;
+    height: 12;
+    margin: 1;
+    padding: 1;
+    layout: grid;
+    grid-size: 2 8;
+    grid-gutter: 0 1;
+}
+
+Footer {
+    content-align: center middle;
+}
+
+.PlayerGrid {
+    height: 9;
+    width: 1fr;
+    layout: grid;
+    grid-size: 2 3;
+    margin: 0 1 1 1;
+    padding: 0;
+}
+
+.GamertagContainer {
+    height: 3;
+    width: 1fr;
+    margin: 0;
+    padding: 0;
+}
+
+.LevelContainer {
+    height: 3;
+    width: 1fr;
+    margin: 0;
+    padding: 0;
+}
+
+.RanksContainer {
+    height: 6;
+    width: 1fr;
+    border: double blue;
+    column-span: 2;
+    row-span: 2;
+    margin: 0;
+    padding: 0;
+}
+
+.GamertagLabel {
+    background: $background;
+    height: 3;
+    margin: 0 1 0 0;
+    width: 100%;
+    padding: 0 1 0 1;
+    border: heavy blue;
+    border_title_align: left;
+    content-align: center middle;
+}
+
+.RanksHeaderMode {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.RanksHeaderMMR {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.RanksHeaderCSR {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.Ranks1vs1 {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.Ranks1vs1MMR {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.Ranks1vs1CSR {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.Ranks2vs2 {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.Ranks2vs2MMR {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.Ranks2vs2CSR {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.Ranks3vs3 {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.Ranks3vs3MMR {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.Ranks3vs3CSR {
+    height: 1;
+    width: 1fr;
+    padding: 0 1 0 1;
+    content-align: left middle;
+    color: blue;
+}
+
+.LevelLabel {
+    background: $background;
+    height: 3;
+    margin: 0 1 0 0;
+    width: 100%;
+    padding: 0 1 0 1;
+    border: heavy blue;
+    border_title_align: left;
+    content-align: center middle;
+}
+
+.MatchMode {
+    height: 1;
+    width: 1fr;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchModeLabel {
+    height: 1;
+    width: 11fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchModeValue {
+    height: 1;
+    width: 9fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchResult {
+    height: 1;
+    width: 1fr;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchResultLabel {
+    height: 1;
+    width: 11fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchResultValue {
+    height: 1;
+    width: 9fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchDuration {
+    height: 1;
+    width: 1fr;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchDurationLabel {
+    height: 1;
+    width: 11fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchDurationValue {
+    height: 1;
+    width: 9fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchStrategy {
+    height: 1;
+    width: 1fr;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchStrategyLabel {
+    height: 1;
+    width: 11fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchStrategyValue {
+    height: 1;
+    width: 9fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchT2 {
+    height: 1;
+    width: 1fr;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchT2Label {
+    height: 1;
+    width: 11fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchT2Value {
+    height: 1;
+    width: 9fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchT3 {
+    height: 1;
+    width: 1fr;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchT3Label {
+    height: 1;
+    width: 11fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchT3Value {
+    height: 1;
+    width: 9fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchBases {
+    height: 1;
+    width: 1fr;
+    column-span: 2;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchBasesLabel {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchBasesValue {
+    height: 1;
+    width: 3fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchTurrets {
+    height: 1;
+    width: 1fr;
+    column-span: 2;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchTurretsLabel {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchTurretsValue {
+    height: 1;
+    width: 3fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchMinis {
+    height: 1;
+    width: 1fr;
+    column-span: 2;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchMinisLabel {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchMinisValue {
+    height: 1;
+    width: 3fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchUnits {
+    height: 2;
+    width: 1fr;
+    column-span: 2;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchUnitsLabel {
+    height: 2;
+    width: 1fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchUnitsValue {
+    height: 2;
+    width: 3fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchPopulation {
+    height: 1;
+    width: 1fr;
+    column-span: 2;
+    padding: 0;
+    content-align: left middle;
+}
+
+.MatchPopulationLabel {
+    height: 1;
+    width: 2fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.MatchPopulationValue {
+    height: 1;
+    width: 4fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.Population {
+    layout: horizontal;
+    height: 1;
+    width: 4fr;
+    padding: 0 1;
+    content-align: left middle;
+}
+
+.Population05Value {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    margin: 0;
+    content-align: center middle;
+    opacity: 40%;
+    color: white 100%;
+}
+
+.Population10Value {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    margin: 0;
+    content-align: center middle;
+    opacity: 45%;
+    color: white 100%;
+}
+
+.Population15Value {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    margin: 0;
+    content-align: center middle;
+    opacity: 50%;
+    color: white 100%;
+}
+
+.Population20Value {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    margin: 0;
+    content-align: center middle;
+    opacity: 55%;
+    color: white 100%;
+}
+
+.Population25Value {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    margin: 0;
+    content-align: center middle;
+    opacity: 60%;
+    color: white 100%;
+}
+
+.Population30Value {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    margin: 0;
+    content-align: center middle;
+    opacity: 65%;
+    color: white 100%;
+}
+
+.Population35Value {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    margin: 0;
+    content-align: center middle;
+    opacity: 70%;
+    color: white 100%;
+}
+
+.Population40Value {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    margin: 0;
+    content-align: center middle;
+    opacity: 75%;
+    color: white 100%;
+}
+
+.Population45Value {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    margin: 0;
+    content-align: center middle;
+    opacity: 80%;
+    color: white 100%;
+}
+
+.Population50Value {
+    height: 1;
+    width: 1fr;
+    padding: 0 1;
+    margin: 0;
+    content-align: center middle;
+    opacity: 85%;
+    color: white 100%;
+}
+
+.blue #player1 Static .PopulationValue {
+    background: $blue1;
+    color: white 100%;
+}
+
+.blue #player2 Static .PopulationValue {
+    background: $blue2;
+    color: white 100%;
+}
+
+.blue #player3 Static .PopulationValue {
+    background: $blue3;
+    color: white 100%;
+}
+
+.red #player1 Static .PopulationValue {
+    background: $red1;
+    color: white 100%;
+}
+
+.red #player2 Static .PopulationValue {
+    background: $red2;
+    color: white 100%;
+}
+
+.red #player3 Static .PopulationValue {
+    background: $red3;
+    color: white 100%;
+}
+
+.blue #player1 Match {
+    border: double $blue1;
+}
+
+.blue #player1 {
+    border: double $blue1;
+    tint: $blue1 20%;
+    scrollbar-background: $background;
+    scrollbar-background-active: $background;
+    scrollbar-background-hover: $background;
+    scrollbar-color: $blue1 70%;
+    scrollbar-color-active: $blue1 99%;
+    scrollbar-color-hover: $blue1 80%;
+    scrollbar-corner-color: $blue1;
+}
+
+.blue #player1 Label {
+    border: double $blue1;
+}
+
+.blue #player1 .RanksContainer {
+    border: double $blue1;
+}
+
+.blue #player1 Static .TabCol {
+    background: $blue1 15%;
+    color: $blue1;
+}
+
+.blue #player1 Static .TabRow {
+    background: $blue1 10%;
+    color: $blue1;
+}
+
+.blue #player1 Static .Label {
+    color: $blue1;
+}
+
+.blue #player1 Static .Value {
+    color: white;
+}
+
+.blue #player1 .sparkline--max-color {
+    color: $blue1;
+}
+
+.blue #player1 .sparkline--min-color {
+    color: $blue1dark;
+}
+
+.blue #player2 Match {
+    border: double $blue2;
+}
+
+.blue #player2 {
+    border: double $blue2;
+    tint: $blue2 20%;
+    scrollbar-background: $background;
+    scrollbar-background-active: $background;
+    scrollbar-background-hover: $background;
+    scrollbar-color: $blue2 70%;
+    scrollbar-color-active: $blue2 99%;
+    scrollbar-color-hover: $blue2 80%;
+    scrollbar-corner-color: $blue2;
+}
+
+.blue #player2 Label {
+    border: double $blue2;
+}
+
+.blue #player2 .RanksContainer {
+    border: double $blue2;
+}
+
+.blue #player2 Static .TabCol {
+    background: $blue2 15%;
+    color: $blue2;
+}
+
+.blue #player2 Static .TabRow {
+    background: $blue2 10%;
+    color: $blue2;
+}
+
+.blue #player2 Static .Label {
+    color: $blue2;
+}
+
+.blue #player2 Static .Value {
+    color: white;
+}
+
+.blue #player2 .sparkline--max-color {
+    color: $blue2;
+}
+
+.blue #player2 .sparkline--min-color {
+    color: $blue2dark;
+}
+
+.blue #player3 Match {
+    border: double $blue3;
+}
+
+.blue #player3 {
+    border: double $blue3;
+    tint: $blue3 20%;
+    scrollbar-background: $background;
+    scrollbar-background-active: $background;
+    scrollbar-background-hover: $background;
+    scrollbar-color: $blue3 70%;
+    scrollbar-color-active: $blue3 99%;
+    scrollbar-color-hover: $blue3 80%;
+    scrollbar-corner-color: $blue3;
+}
+
+.blue #player3 Label {
+    border: double $blue3;
+}
+
+.blue #player3 .RanksContainer {
+    border: double $blue3;
+}
+
+.blue #player3 Static .TabCol {
+    background: $blue3 15%;
+    color: $blue3;
+}
+
+.blue #player3 Static .TabRow {
+    background: $blue3 10%;
+    color: $blue3;
+}
+
+.blue #player3 Static .Label {
+    color: $blue3;
+}
+
+.blue #player3 Static .Value {
+    color: white;
+}
+
+.blue #player3 .sparkline--max-color {
+    color: $blue3;
+}
+
+.blue #player3 .sparkline--min-color {
+    color: $blue3dark;
+}
+
+.red #player1 Match {
+    border: double $red1;
+}
+
+.red #player1 {
+    border: double $red1;
+    tint: $red1 20%;
+    scrollbar-background: $background;
+    scrollbar-background-active: $background;
+    scrollbar-background-hover: $background;
+    scrollbar-color: $red1 70%;
+    scrollbar-color-active: $red1 99%;
+    scrollbar-color-hover: $red1 80%;
+    scrollbar-corner-color: $red1;
+}
+
+.red #player1 Label {
+    border: double $red1;
+}
+
+.red #player1 .RanksContainer {
+    border: double $red1;
+}
+
+.red #player1 Static .TabCol {
+    background: $red1 15%;
+    color: $red1;
+}
+
+.red #player1 Static .TabRow {
+    background: $red1 10%;
+    color: $red1;
+}
+
+.red #player1 Static .Label {
+    color: $red1;
+}
+
+.red #player1 Static .Value {
+    color: white;
+}
+
+.red #player1 .sparkline--max-color {
+    color: $red1;
+}
+
+.red #player1 .sparkline--min-color {
+    color: $red1dark;
+}
+
+.red #player2 Match {
+    border: double $red2;
+}
+
+.red #player2 {
+    border: double $red2;
+    tint: $red2 20%;
+    scrollbar-background: $background;
+    scrollbar-background-active: $background;
+    scrollbar-background-hover: $background;
+    scrollbar-color: $red2 70%;
+    scrollbar-color-active: $red2 99%;
+    scrollbar-color-hover: $red2 80%;
+    scrollbar-corner-color: $red2;
+
+}
+
+.red #player2 Label {
+    border: double $red2;
+}
+
+.red #player2 .RanksContainer {
+    border: double $red2;
+}
+
+.red #player2 Static .TabCol {
+    background: $red2 15%;
+    color: $red2;
+}
+
+.red #player2 Static .TabRow {
+    background: $red2 10%;
+    color: $red2;
+}
+
+.red #player2 Static .Label {
+    color: $red2;
+}
+
+.red #player2 Static .Value {
+    color: white;
+}
+
+.red #player2 .sparkline--max-color {
+    color: $red2;
+}
+
+.red #player2 .sparkline--min-color {
+    color: $red2dark;
+}
+
+.red #player3 Match {
+    border: double $red3;
+}
+
+.red #player3 {
+    border: double $red3;
+    tint: $red3 20%;
+    scrollbar-background: $background;
+    scrollbar-background-active: $background;
+    scrollbar-background-hover: $background;
+    scrollbar-color: $red3 70%;
+    scrollbar-color-active: $red3 99%;
+    scrollbar-color-hover: $red3 80%;
+    scrollbar-corner-color: $red3;
+
+}
+
+.red #player3 Label {
+    border: double $red3;
+}
+
+.red #player3 .RanksContainer {
+    border: double $red3;
+}
+
+.red #player3 Static .TabCol {
+    background: $red3 15%;
+    color: $red3;
+}
+
+.red #player3 Static .TabRow {
+    background: $red3 10%;
+    color: $red3;
+}
+
+.red #player3 Static .Label {
+    color: $red3;
+}
+
+.red #player3 Static .Value {
+    color: white;
+}
+
+.red #player3 .sparkline--max-color {
+    color: $red3;
+}
+
+.red #player3 .sparkline--min-color {
+    color: $red3dark;
+}
+
+#GamertagInput {
+    background: $background;
+    height: auto;
+    margin: 1;
+    width: 30%;
+    padding: 1;
+    border: double blue;
+    content-align: left middle;
+    align: center middle;
+}
+
+#About {
+    background: $background;
+    height: auto;
+    margin: 1;
+    width: 40%;
+    padding: 1;
+    border: double blue;
+    content-align: center middle;
+    align: center middle;
+}
+
+.AboutMsg {
+    margin: 1; 
+    content-align: center middle;
+    align: center middle;
+}

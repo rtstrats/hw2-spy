@@ -1,0 +1,42 @@
+{
+    "Results": [
+        {
+            "Id": "L1am Wh1te",
+            "ResultCode": 0,
+            "Result": {
+                "MultiplayerXp": 4480211,
+                "CampaignXp": 14500,
+                "TotalXp": 4494711,
+                "LastUpdatedDateUtc": {
+                    "ISO8601Date": "2023-09-12T21:05:10.411Z"
+                },
+                "SpartanRankId": "f1c31674-e472-40a4-9396-a9980e1bcf96"
+            }
+        },
+        {
+            "Id": "xandy92",
+            "ResultCode": 0,
+            "Result": {
+                "MultiplayerXp": 1535305,
+                "CampaignXp": 34600,
+                "TotalXp": 1569905,
+                "LastUpdatedDateUtc": {
+                    "ISO8601Date": "2023-09-12T00:51:54.063Z"
+                },
+                "SpartanRankId": "f1c31674-e472-40a4-9396-a9980e1bcf96"
+            }
+        }
+    ],
+    "Links": {
+        "Self": {
+            "AuthorityId": "spartanstats",
+            "Path": "/hw2/xp",
+            "QueryString": "?players=L1am%20Wh1te,xandy92",
+            "RetryPolicyId": "",
+            "TopicName": "",
+            "AcknowledgementTypeId": 0,
+            "AuthenticationLifetimeExtensionSupported": false,
+            "ClearanceAware": false
+        }
+    }
+}

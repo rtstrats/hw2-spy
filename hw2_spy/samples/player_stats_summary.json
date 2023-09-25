@@ -1,0 +1,4448 @@
+{
+  "CustomSummary": {
+    "SkirmishStats": {
+      "SinglePlayerStats": {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT11H27M51.811S",
+        "TotalMatchesStarted": 128,
+        "TotalMatchesCompleted": 27,
+        "TotalMatchesWon": 20,
+        "TotalMatchesLost": 108,
+        "TotalPointCaptures": 117,
+        "TotalUnitsBuilt": 1427,
+        "TotalUnitsLost": 794,
+        "TotalUnitsDestroyed": 2435,
+        "TotalCardPlays": 47,
+        "HighestWaveCompleted": 24,
+        "LeaderStats": {
+          "Cutter": {
+            "TotalTimePlayed": "PT3H57M7.594S",
+            "TotalMatchesStarted": 49,
+            "TotalMatchesCompleted": 9,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 43,
+            "TotalLeaderPowersCast": 58
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT46M38.014S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 24
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT23M48.171S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 11
+          },
+          "Pavium": {
+            "TotalTimePlayed": "PT37M21.393S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 18
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H34M58.774S",
+            "TotalMatchesStarted": 12,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 10,
+            "TotalLeaderPowersCast": 29
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT58M48.618S",
+            "TotalMatchesStarted": 8,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 14
+          },
+          "YapYap": {
+            "TotalTimePlayed": "PT37M45.195S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 92
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT28M35.017S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 6
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT19M9.226S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 53
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT27M21.916S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 10
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT4M12S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 0
+          },
+          "Serina": {
+            "TotalTimePlayed": "PT32M44.224S",
+            "TotalMatchesStarted": 9,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 7,
+            "TotalLeaderPowersCast": 5
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT14M44.669S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 0
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT1M13S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 0
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT4M10S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 1
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT19M14S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 31
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      "MultiplayerStats": {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT4H37M4.465S",
+        "TotalMatchesStarted": 30,
+        "TotalMatchesCompleted": 14,
+        "TotalMatchesWon": 12,
+        "TotalMatchesLost": 18,
+        "TotalPointCaptures": 63,
+        "TotalUnitsBuilt": 808,
+        "TotalUnitsLost": 1013,
+        "TotalUnitsDestroyed": 2354,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 37,
+        "LeaderStats": {
+          "Pavium": {
+            "TotalTimePlayed": "PT51M30.25S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 30
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT30M9.955S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 5
+          },
+          "Serina": {
+            "TotalTimePlayed": "PT10M44.242S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 1
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT33M49.221S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 4
+          },
+          "YapYap": {
+            "TotalTimePlayed": "PT26M46.007S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 23
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT1H1M28.675S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 1173
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT1M47.012S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 1
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT15M19.696S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 8
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT4M3.318S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 1
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT41M26.089S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 30
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      "SinglePlayerModeStats": [
+        {
+          "PlaylistId": null,
+          "PlaylistClassification": null,
+          "HighestCsr": null,
+          "TotalTimePlayed": "PT9H39M12.293S",
+          "TotalMatchesStarted": 119,
+          "TotalMatchesCompleted": 21,
+          "TotalMatchesWon": 17,
+          "TotalMatchesLost": 102,
+          "TotalPointCaptures": 87,
+          "TotalUnitsBuilt": 1030,
+          "TotalUnitsLost": 464,
+          "TotalUnitsDestroyed": 1176,
+          "TotalCardPlays": 0,
+          "HighestWaveCompleted": 0,
+          "LeaderStats": {
+            "Kinsano": {
+              "TotalTimePlayed": "PT23M40.171S",
+              "TotalMatchesStarted": 3,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 2,
+              "TotalLeaderPowersCast": 11
+            },
+            "Cutter": {
+              "TotalTimePlayed": "PT3H8M26.635S",
+              "TotalMatchesStarted": 45,
+              "TotalMatchesCompleted": 5,
+              "TotalMatchesWon": 3,
+              "TotalMatchesLost": 42,
+              "TotalLeaderPowersCast": 26
+            },
+            "Pavium": {
+              "TotalTimePlayed": "PT18M33.963S",
+              "TotalMatchesStarted": 4,
+              "TotalMatchesCompleted": 2,
+              "TotalMatchesWon": 2,
+              "TotalMatchesLost": 2,
+              "TotalLeaderPowersCast": 10
+            },
+            "Atriox": {
+              "TotalTimePlayed": "PT1H34M58.774S",
+              "TotalMatchesStarted": 12,
+              "TotalMatchesCompleted": 2,
+              "TotalMatchesWon": 2,
+              "TotalMatchesLost": 10,
+              "TotalLeaderPowersCast": 29
+            },
+            "Decimus": {
+              "TotalTimePlayed": "PT21M42.885S",
+              "TotalMatchesStarted": 4,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 3,
+              "TotalLeaderPowersCast": 21
+            },
+            "YapYap": {
+              "TotalTimePlayed": "PT37M45.195S",
+              "TotalMatchesStarted": 6,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 5,
+              "TotalLeaderPowersCast": 92
+            },
+            "Shipmaster": {
+              "TotalTimePlayed": "PT28M35.017S",
+              "TotalMatchesStarted": 7,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 6,
+              "TotalLeaderPowersCast": 6
+            },
+            "Jerome": {
+              "TotalTimePlayed": "PT19M9.226S",
+              "TotalMatchesStarted": 5,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 4,
+              "TotalLeaderPowersCast": 53
+            },
+            "Voridus": {
+              "TotalTimePlayed": "PT27M21.916S",
+              "TotalMatchesStarted": 5,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 4,
+              "TotalLeaderPowersCast": 10
+            },
+            "Johnson": {
+              "TotalTimePlayed": "PT4M12S",
+              "TotalMatchesStarted": 2,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 2,
+              "TotalLeaderPowersCast": 0
+            },
+            "Serina": {
+              "TotalTimePlayed": "PT32M44.224S",
+              "TotalMatchesStarted": 9,
+              "TotalMatchesCompleted": 3,
+              "TotalMatchesWon": 2,
+              "TotalMatchesLost": 7,
+              "TotalLeaderPowersCast": 5
+            },
+            "Lekgolo": {
+              "TotalTimePlayed": "PT14M44.669S",
+              "TotalMatchesStarted": 2,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 2,
+              "TotalLeaderPowersCast": 0
+            },
+            "Anders": {
+              "TotalTimePlayed": "PT42M40.618S",
+              "TotalMatchesStarted": 6,
+              "TotalMatchesCompleted": 2,
+              "TotalMatchesWon": 2,
+              "TotalMatchesLost": 4,
+              "TotalLeaderPowersCast": 9
+            },
+            "Forge": {
+              "TotalTimePlayed": "PT1M13S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 0
+            },
+            "Isabel": {
+              "TotalTimePlayed": "PT4M10S",
+              "TotalMatchesStarted": 4,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 4,
+              "TotalLeaderPowersCast": 1
+            },
+            "Arbiter": {
+              "TotalTimePlayed": "PT19M14S",
+              "TotalMatchesStarted": 4,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 4,
+              "TotalLeaderPowersCast": 31
+            }
+          },
+          "GameMode": 3,
+          "HighestObjectiveScoreByTeamSize": {
+            "3": 0,
+            "1": 0
+          }
+        },
+        {
+          "PlaylistId": null,
+          "PlaylistClassification": null,
+          "HighestCsr": null,
+          "TotalTimePlayed": "PT24M3.684S",
+          "TotalMatchesStarted": 2,
+          "TotalMatchesCompleted": 2,
+          "TotalMatchesWon": 2,
+          "TotalMatchesLost": 0,
+          "TotalPointCaptures": 9,
+          "TotalUnitsBuilt": 71,
+          "TotalUnitsLost": 32,
+          "TotalUnitsDestroyed": 143,
+          "TotalCardPlays": 0,
+          "HighestWaveCompleted": 0,
+          "LeaderStats": {
+            "Cutter": {
+              "TotalTimePlayed": "PT24M3.684S",
+              "TotalMatchesStarted": 2,
+              "TotalMatchesCompleted": 2,
+              "TotalMatchesWon": 2,
+              "TotalMatchesLost": 0,
+              "TotalLeaderPowersCast": 13
+            }
+          },
+          "GameMode": 4,
+          "HighestObjectiveScoreByTeamSize": {
+            "1": 2610
+          }
+        },
+        {
+          "PlaylistId": null,
+          "PlaylistClassification": null,
+          "HighestCsr": null,
+          "TotalTimePlayed": "PT24M55.129S",
+          "TotalMatchesStarted": 1,
+          "TotalMatchesCompleted": 1,
+          "TotalMatchesWon": 0,
+          "TotalMatchesLost": 1,
+          "TotalPointCaptures": 21,
+          "TotalUnitsBuilt": 49,
+          "TotalUnitsLost": 36,
+          "TotalUnitsDestroyed": 581,
+          "TotalCardPlays": 47,
+          "HighestWaveCompleted": 24,
+          "LeaderStats": {
+            "Decimus": {
+              "TotalTimePlayed": "PT24M55.129S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 3
+            }
+          },
+          "GameMode": 7,
+          "HighestObjectiveScoreByTeamSize": {
+            "1": 200
+          }
+        },
+        {
+          "PlaylistId": null,
+          "PlaylistClassification": null,
+          "HighestCsr": null,
+          "TotalTimePlayed": "PT32M23.43S",
+          "TotalMatchesStarted": 2,
+          "TotalMatchesCompleted": 1,
+          "TotalMatchesWon": 0,
+          "TotalMatchesLost": 2,
+          "TotalPointCaptures": 0,
+          "TotalUnitsBuilt": 93,
+          "TotalUnitsLost": 113,
+          "TotalUnitsDestroyed": 330,
+          "TotalCardPlays": 0,
+          "HighestWaveCompleted": 14,
+          "LeaderStats": {
+            "Pavium": {
+              "TotalTimePlayed": "PT18M47.43S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 8
+            },
+            "Anders": {
+              "TotalTimePlayed": "PT13M36S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 5
+            }
+          },
+          "GameMode": 10,
+          "HighestObjectiveScoreByTeamSize": {
+            "1": 0
+          }
+        },
+        {
+          "PlaylistId": null,
+          "PlaylistClassification": null,
+          "HighestCsr": null,
+          "TotalTimePlayed": "PT27M17.275S",
+          "TotalMatchesStarted": 4,
+          "TotalMatchesCompleted": 2,
+          "TotalMatchesWon": 1,
+          "TotalMatchesLost": 3,
+          "TotalPointCaptures": 0,
+          "TotalUnitsBuilt": 184,
+          "TotalUnitsLost": 149,
+          "TotalUnitsDestroyed": 205,
+          "TotalCardPlays": 0,
+          "HighestWaveCompleted": 0,
+          "LeaderStats": {
+            "Cutter": {
+              "TotalTimePlayed": "PT24M37.275S",
+              "TotalMatchesStarted": 2,
+              "TotalMatchesCompleted": 2,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 19
+            },
+            "Kinsano": {
+              "TotalTimePlayed": "PT8S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 0
+            },
+            "Anders": {
+              "TotalTimePlayed": "PT2M32S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 0
+            }
+          },
+          "GameMode": 5,
+          "HighestObjectiveScoreByTeamSize": {
+            "1": 6,
+            "3": 0
+          }
+        }
+      ],
+      "MultiplayerModeStats": [
+        {
+          "PlaylistId": null,
+          "PlaylistClassification": null,
+          "HighestCsr": null,
+          "TotalTimePlayed": "PT2H54M9.701S",
+          "TotalMatchesStarted": 26,
+          "TotalMatchesCompleted": 12,
+          "TotalMatchesWon": 12,
+          "TotalMatchesLost": 14,
+          "TotalPointCaptures": 63,
+          "TotalUnitsBuilt": 614,
+          "TotalUnitsLost": 272,
+          "TotalUnitsDestroyed": 577,
+          "TotalCardPlays": 0,
+          "HighestWaveCompleted": 0,
+          "LeaderStats": {
+            "Pavium": {
+              "TotalTimePlayed": "PT51M30.25S",
+              "TotalMatchesStarted": 7,
+              "TotalMatchesCompleted": 6,
+              "TotalMatchesWon": 6,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 30
+            },
+            "Cutter": {
+              "TotalTimePlayed": "PT30M9.955S",
+              "TotalMatchesStarted": 4,
+              "TotalMatchesCompleted": 2,
+              "TotalMatchesWon": 2,
+              "TotalMatchesLost": 2,
+              "TotalLeaderPowersCast": 5
+            },
+            "Serina": {
+              "TotalTimePlayed": "PT10M44.242S",
+              "TotalMatchesStarted": 2,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 1
+            },
+            "Forge": {
+              "TotalTimePlayed": "PT33M49.221S",
+              "TotalMatchesStarted": 5,
+              "TotalMatchesCompleted": 3,
+              "TotalMatchesWon": 3,
+              "TotalMatchesLost": 2,
+              "TotalLeaderPowersCast": 4
+            },
+            "YapYap": {
+              "TotalTimePlayed": "PT26M46.007S",
+              "TotalMatchesStarted": 5,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 5,
+              "TotalLeaderPowersCast": 23
+            },
+            "Shipmaster": {
+              "TotalTimePlayed": "PT1M47.012S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 1
+            },
+            "Voridus": {
+              "TotalTimePlayed": "PT15M19.696S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 8
+            },
+            "Jerome": {
+              "TotalTimePlayed": "PT4M3.318S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 1
+            }
+          },
+          "GameMode": 3,
+          "HighestObjectiveScoreByTeamSize": {
+            "2": 0,
+            "3": 0
+          }
+        },
+        {
+          "PlaylistId": null,
+          "PlaylistClassification": null,
+          "HighestCsr": null,
+          "TotalTimePlayed": "PT1H42M54.764S",
+          "TotalMatchesStarted": 4,
+          "TotalMatchesCompleted": 2,
+          "TotalMatchesWon": 0,
+          "TotalMatchesLost": 4,
+          "TotalPointCaptures": 0,
+          "TotalUnitsBuilt": 194,
+          "TotalUnitsLost": 741,
+          "TotalUnitsDestroyed": 1777,
+          "TotalCardPlays": 0,
+          "HighestWaveCompleted": 37,
+          "LeaderStats": {
+            "Anders": {
+              "TotalTimePlayed": "PT1H1M28.675S",
+              "TotalMatchesStarted": 3,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 3,
+              "TotalLeaderPowersCast": 1173
+            },
+            "Atriox": {
+              "TotalTimePlayed": "PT41M26.089S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 30
+            }
+          },
+          "GameMode": 10,
+          "HighestObjectiveScoreByTeamSize": {
+            "3": 0,
+            "2": 0
+          }
+        }
+      ]
+    },
+    "CustomStats": {
+      "PlaylistId": null,
+      "PlaylistClassification": null,
+      "HighestCsr": null,
+      "TotalTimePlayed": "P30DT10H36M39.414S",
+      "TotalMatchesStarted": 3085,
+      "TotalMatchesCompleted": 1778,
+      "TotalMatchesWon": 1489,
+      "TotalMatchesLost": 1595,
+      "TotalPointCaptures": 10638,
+      "TotalUnitsBuilt": 202050,
+      "TotalUnitsLost": 164184,
+      "TotalUnitsDestroyed": 200556,
+      "TotalCardPlays": 0,
+      "HighestWaveCompleted": 0,
+      "LeaderStats": {
+        "Cutter": {
+          "TotalTimePlayed": "P3DT5H43M36.347S",
+          "TotalMatchesStarted": 337,
+          "TotalMatchesCompleted": 185,
+          "TotalMatchesWon": 166,
+          "TotalMatchesLost": 171,
+          "TotalLeaderPowersCast": 2853
+        },
+        "YapYap": {
+          "TotalTimePlayed": "P3DT8H8M34.235S",
+          "TotalMatchesStarted": 315,
+          "TotalMatchesCompleted": 191,
+          "TotalMatchesWon": 161,
+          "TotalMatchesLost": 153,
+          "TotalLeaderPowersCast": 18066
+        },
+        "Pavium": {
+          "TotalTimePlayed": "P1DT17H38M34.516S",
+          "TotalMatchesStarted": 182,
+          "TotalMatchesCompleted": 95,
+          "TotalMatchesWon": 80,
+          "TotalMatchesLost": 102,
+          "TotalLeaderPowersCast": 2182
+        },
+        "Decimus": {
+          "TotalTimePlayed": "P1DT22H18M38.649S",
+          "TotalMatchesStarted": 192,
+          "TotalMatchesCompleted": 101,
+          "TotalMatchesWon": 77,
+          "TotalMatchesLost": 115,
+          "TotalLeaderPowersCast": 3634
+        },
+        "Kinsano": {
+          "TotalTimePlayed": "P1DT13H3M43.451S",
+          "TotalMatchesStarted": 164,
+          "TotalMatchesCompleted": 96,
+          "TotalMatchesWon": 77,
+          "TotalMatchesLost": 87,
+          "TotalLeaderPowersCast": 1830
+        },
+        "Serina": {
+          "TotalTimePlayed": "PT17H30M46.708S",
+          "TotalMatchesStarted": 80,
+          "TotalMatchesCompleted": 52,
+          "TotalMatchesWon": 40,
+          "TotalMatchesLost": 40,
+          "TotalLeaderPowersCast": 682
+        },
+        "Forge": {
+          "TotalTimePlayed": "P2DT18H13M16.826S",
+          "TotalMatchesStarted": 260,
+          "TotalMatchesCompleted": 141,
+          "TotalMatchesWon": 120,
+          "TotalMatchesLost": 140,
+          "TotalLeaderPowersCast": 2143
+        },
+        "Jerome": {
+          "TotalTimePlayed": "P2DT8H7M22.515S",
+          "TotalMatchesStarted": 231,
+          "TotalMatchesCompleted": 153,
+          "TotalMatchesWon": 116,
+          "TotalMatchesLost": 115,
+          "TotalLeaderPowersCast": 12753
+        },
+        "Atriox": {
+          "TotalTimePlayed": "P2DT15H52M2.039S",
+          "TotalMatchesStarted": 293,
+          "TotalMatchesCompleted": 159,
+          "TotalMatchesWon": 139,
+          "TotalMatchesLost": 154,
+          "TotalLeaderPowersCast": 2779
+        },
+        "Shipmaster": {
+          "TotalTimePlayed": "P2DT6H16M15.49S",
+          "TotalMatchesStarted": 203,
+          "TotalMatchesCompleted": 115,
+          "TotalMatchesWon": 99,
+          "TotalMatchesLost": 104,
+          "TotalLeaderPowersCast": 2066
+        },
+        "Lekgolo": {
+          "TotalTimePlayed": "P1DT8H55M30.85S",
+          "TotalMatchesStarted": 165,
+          "TotalMatchesCompleted": 104,
+          "TotalMatchesWon": 89,
+          "TotalMatchesLost": 76,
+          "TotalLeaderPowersCast": 1199
+        },
+        "Johnson": {
+          "TotalTimePlayed": "P1DT4H27M51.883S",
+          "TotalMatchesStarted": 120,
+          "TotalMatchesCompleted": 73,
+          "TotalMatchesWon": 63,
+          "TotalMatchesLost": 57,
+          "TotalLeaderPowersCast": 1321
+        },
+        "Arbiter": {
+          "TotalTimePlayed": "P1DT4H33M6.932S",
+          "TotalMatchesStarted": 124,
+          "TotalMatchesCompleted": 55,
+          "TotalMatchesWon": 46,
+          "TotalMatchesLost": 78,
+          "TotalLeaderPowersCast": 2509
+        },
+        "Anders": {
+          "TotalTimePlayed": "P2DT10H27M17.596S",
+          "TotalMatchesStarted": 250,
+          "TotalMatchesCompleted": 147,
+          "TotalMatchesWon": 124,
+          "TotalMatchesLost": 126,
+          "TotalLeaderPowersCast": 7483
+        },
+        "Isabel": {
+          "TotalTimePlayed": "PT20H11M29.658S",
+          "TotalMatchesStarted": 80,
+          "TotalMatchesCompleted": 48,
+          "TotalMatchesWon": 38,
+          "TotalMatchesLost": 42,
+          "TotalLeaderPowersCast": 688
+        },
+        "Voridus": {
+          "TotalTimePlayed": "PT21H8M31.719S",
+          "TotalMatchesStarted": 89,
+          "TotalMatchesCompleted": 63,
+          "TotalMatchesWon": 54,
+          "TotalMatchesLost": 35,
+          "TotalLeaderPowersCast": 1241
+        }
+      },
+      "GameMode": null,
+      "HighestObjectiveScoreByTeamSize": {}
+    },
+    "CustomModeStats": [
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "P30DT9H22M41.71S",
+        "TotalMatchesStarted": 3078,
+        "TotalMatchesCompleted": 1771,
+        "TotalMatchesWon": 1483,
+        "TotalMatchesLost": 1594,
+        "TotalPointCaptures": 10620,
+        "TotalUnitsBuilt": 201324,
+        "TotalUnitsLost": 163707,
+        "TotalUnitsDestroyed": 199723,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Cutter": {
+            "TotalTimePlayed": "P3DT5H28M59.348S",
+            "TotalMatchesStarted": 336,
+            "TotalMatchesCompleted": 184,
+            "TotalMatchesWon": 165,
+            "TotalMatchesLost": 171,
+            "TotalLeaderPowersCast": 2848
+          },
+          "YapYap": {
+            "TotalTimePlayed": "P3DT8H8M34.235S",
+            "TotalMatchesStarted": 315,
+            "TotalMatchesCompleted": 191,
+            "TotalMatchesWon": 161,
+            "TotalMatchesLost": 153,
+            "TotalLeaderPowersCast": 18066
+          },
+          "Pavium": {
+            "TotalTimePlayed": "P1DT17H38M34.516S",
+            "TotalMatchesStarted": 182,
+            "TotalMatchesCompleted": 95,
+            "TotalMatchesWon": 80,
+            "TotalMatchesLost": 102,
+            "TotalLeaderPowersCast": 2182
+          },
+          "Decimus": {
+            "TotalTimePlayed": "P1DT22H18M38.649S",
+            "TotalMatchesStarted": 192,
+            "TotalMatchesCompleted": 101,
+            "TotalMatchesWon": 77,
+            "TotalMatchesLost": 115,
+            "TotalLeaderPowersCast": 3634
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "P1DT12H33M42.653S",
+            "TotalMatchesStarted": 162,
+            "TotalMatchesCompleted": 94,
+            "TotalMatchesWon": 76,
+            "TotalMatchesLost": 86,
+            "TotalLeaderPowersCast": 1746
+          },
+          "Serina": {
+            "TotalTimePlayed": "PT17H30M46.708S",
+            "TotalMatchesStarted": 80,
+            "TotalMatchesCompleted": 52,
+            "TotalMatchesWon": 40,
+            "TotalMatchesLost": 40,
+            "TotalLeaderPowersCast": 682
+          },
+          "Forge": {
+            "TotalTimePlayed": "P2DT18H13M16.826S",
+            "TotalMatchesStarted": 260,
+            "TotalMatchesCompleted": 141,
+            "TotalMatchesWon": 120,
+            "TotalMatchesLost": 140,
+            "TotalLeaderPowersCast": 2143
+          },
+          "Jerome": {
+            "TotalTimePlayed": "P2DT7H58M29.937S",
+            "TotalMatchesStarted": 230,
+            "TotalMatchesCompleted": 152,
+            "TotalMatchesWon": 115,
+            "TotalMatchesLost": 115,
+            "TotalLeaderPowersCast": 12551
+          },
+          "Atriox": {
+            "TotalTimePlayed": "P2DT15H31M34.71S",
+            "TotalMatchesStarted": 290,
+            "TotalMatchesCompleted": 156,
+            "TotalMatchesWon": 136,
+            "TotalMatchesLost": 154,
+            "TotalLeaderPowersCast": 2738
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "P2DT6H16M15.49S",
+            "TotalMatchesStarted": 203,
+            "TotalMatchesCompleted": 115,
+            "TotalMatchesWon": 99,
+            "TotalMatchesLost": 104,
+            "TotalLeaderPowersCast": 2066
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "P1DT8H55M30.85S",
+            "TotalMatchesStarted": 165,
+            "TotalMatchesCompleted": 104,
+            "TotalMatchesWon": 89,
+            "TotalMatchesLost": 76,
+            "TotalLeaderPowersCast": 1199
+          },
+          "Johnson": {
+            "TotalTimePlayed": "P1DT4H27M51.883S",
+            "TotalMatchesStarted": 120,
+            "TotalMatchesCompleted": 73,
+            "TotalMatchesWon": 63,
+            "TotalMatchesLost": 57,
+            "TotalLeaderPowersCast": 1321
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "P1DT4H33M6.932S",
+            "TotalMatchesStarted": 124,
+            "TotalMatchesCompleted": 55,
+            "TotalMatchesWon": 46,
+            "TotalMatchesLost": 78,
+            "TotalLeaderPowersCast": 2509
+          },
+          "Anders": {
+            "TotalTimePlayed": "P2DT10H27M17.596S",
+            "TotalMatchesStarted": 250,
+            "TotalMatchesCompleted": 147,
+            "TotalMatchesWon": 124,
+            "TotalMatchesLost": 126,
+            "TotalLeaderPowersCast": 7483
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT20H11M29.658S",
+            "TotalMatchesStarted": 80,
+            "TotalMatchesCompleted": 48,
+            "TotalMatchesWon": 38,
+            "TotalMatchesLost": 42,
+            "TotalLeaderPowersCast": 688
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT21H8M31.719S",
+            "TotalMatchesStarted": 89,
+            "TotalMatchesCompleted": 63,
+            "TotalMatchesWon": 54,
+            "TotalMatchesLost": 35,
+            "TotalLeaderPowersCast": 1241
+          }
+        },
+        "GameMode": 3,
+        "HighestObjectiveScoreByTeamSize": {
+          "2": 0,
+          "1": 0,
+          "3": 0
+        }
+      },
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT42M41.24S",
+        "TotalMatchesStarted": 4,
+        "TotalMatchesCompleted": 4,
+        "TotalMatchesWon": 4,
+        "TotalMatchesLost": 0,
+        "TotalPointCaptures": 18,
+        "TotalUnitsBuilt": 175,
+        "TotalUnitsLost": 151,
+        "TotalUnitsDestroyed": 283,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Atriox": {
+            "TotalTimePlayed": "PT13M5.597S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 5
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT14M36.999S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 5
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT14M58.644S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 15
+          }
+        },
+        "GameMode": 4,
+        "HighestObjectiveScoreByTeamSize": {
+          "1": 1745,
+          "2": 2340
+        }
+      },
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT31M16.464S",
+        "TotalMatchesStarted": 3,
+        "TotalMatchesCompleted": 3,
+        "TotalMatchesWon": 2,
+        "TotalMatchesLost": 1,
+        "TotalPointCaptures": 0,
+        "TotalUnitsBuilt": 551,
+        "TotalUnitsLost": 326,
+        "TotalUnitsDestroyed": 550,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Jerome": {
+            "TotalTimePlayed": "PT8M52.578S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 202
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT15M2.154S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 69
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT7M21.732S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 36
+          }
+        },
+        "GameMode": 5,
+        "HighestObjectiveScoreByTeamSize": {
+          "2": 6
+        }
+      }
+    ]
+  },
+  "MatchmakingSummary": {
+    "SocialPlaylistStats": [
+      {
+        "PlaylistId": "1c1ce947-fdae-4e4e-a98d-ff889af1d0cb",
+        "PlaylistClassification": 0,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT11H26M43.436S",
+        "TotalMatchesStarted": 37,
+        "TotalMatchesCompleted": 28,
+        "TotalMatchesWon": 16,
+        "TotalMatchesLost": 21,
+        "TotalPointCaptures": 241,
+        "TotalUnitsBuilt": 1534,
+        "TotalUnitsLost": 1401,
+        "TotalUnitsDestroyed": 2180,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Cutter": {
+            "TotalTimePlayed": "PT2H57M23.507S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 48
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT3H30M47.38S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 66
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H45M50.261S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 38
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT16M41.862S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 21
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT1H31M14.257S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 32
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT1H28.754S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 20
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT24M17.415S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 8
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "21443531-ed51-4f1d-ade6-fb15e7eeb3c0",
+        "PlaylistClassification": 0,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT19M0.898S",
+        "TotalMatchesStarted": 1,
+        "TotalMatchesCompleted": 1,
+        "TotalMatchesWon": 1,
+        "TotalMatchesLost": 0,
+        "TotalPointCaptures": 4,
+        "TotalUnitsBuilt": 33,
+        "TotalUnitsLost": 17,
+        "TotalUnitsDestroyed": 52,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Decimus": {
+            "TotalTimePlayed": "PT19M0.898S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 6
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "282fc197-7bf1-4865-81ec-a312d07567b6",
+        "PlaylistClassification": 0,
+        "HighestCsr": null,
+        "TotalTimePlayed": "P1DT9H32M20.054S",
+        "TotalMatchesStarted": 158,
+        "TotalMatchesCompleted": 137,
+        "TotalMatchesWon": 128,
+        "TotalMatchesLost": 30,
+        "TotalPointCaptures": 595,
+        "TotalUnitsBuilt": 7374,
+        "TotalUnitsLost": 4403,
+        "TotalUnitsDestroyed": 9861,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Decimus": {
+            "TotalTimePlayed": "PT2H7M1.574S",
+            "TotalMatchesStarted": 8,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 45
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT5H6M0.131S",
+            "TotalMatchesStarted": 21,
+            "TotalMatchesCompleted": 18,
+            "TotalMatchesWon": 16,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 146
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT4H59M56.357S",
+            "TotalMatchesStarted": 22,
+            "TotalMatchesCompleted": 18,
+            "TotalMatchesWon": 17,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 92
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT2H15M6.054S",
+            "TotalMatchesStarted": 12,
+            "TotalMatchesCompleted": 11,
+            "TotalMatchesWon": 11,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 54
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT1H45M2.392S",
+            "TotalMatchesStarted": 8,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 259
+          },
+          "YapYap": {
+            "TotalTimePlayed": "PT1H9M3.52S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 398
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT2H58M5.157S",
+            "TotalMatchesStarted": 15,
+            "TotalMatchesCompleted": 13,
+            "TotalMatchesWon": 12,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 101
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT1H25M47.022S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 7,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 48
+          },
+          "Serina": {
+            "TotalTimePlayed": "PT1H51M8.634S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 9,
+            "TotalMatchesWon": 8,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 49
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT1H30M15.114S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 63
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT1H6M36.595S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 63
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT3H32M55.261S",
+            "TotalMatchesStarted": 16,
+            "TotalMatchesCompleted": 12,
+            "TotalMatchesWon": 11,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 107
+          },
+          "Pavium": {
+            "TotalTimePlayed": "PT28M21.909S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 21
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT1H33M16.925S",
+            "TotalMatchesStarted": 8,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 8,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 123
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT37M42.993S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 13
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT1H6M0.416S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 55
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "40a95835-61c4-4ebc-b4ea-8a399230e817",
+        "PlaylistClassification": 1,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT12M43.852S",
+        "TotalMatchesStarted": 2,
+        "TotalMatchesCompleted": 2,
+        "TotalMatchesWon": 2,
+        "TotalMatchesLost": 0,
+        "TotalPointCaptures": 17,
+        "TotalUnitsBuilt": 34,
+        "TotalUnitsLost": 28,
+        "TotalUnitsDestroyed": 64,
+        "TotalCardPlays": 32,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Decimus": {
+            "TotalTimePlayed": "PT10M16.977S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 0
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT2M26.875S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 1
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "66943ced-5fbe-4f08-b4f0-53e5a60badec",
+        "PlaylistClassification": 1,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT3H51M34.473S",
+        "TotalMatchesStarted": 28,
+        "TotalMatchesCompleted": 26,
+        "TotalMatchesWon": 13,
+        "TotalMatchesLost": 15,
+        "TotalPointCaptures": 216,
+        "TotalUnitsBuilt": 631,
+        "TotalUnitsLost": 536,
+        "TotalUnitsDestroyed": 1223,
+        "TotalCardPlays": 565,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Cutter": {
+            "TotalTimePlayed": "PT1H9M0.66S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 7,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 34
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT33M24.948S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 8
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT10M21.843S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 1
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT1H19M17.38S",
+            "TotalMatchesStarted": 11,
+            "TotalMatchesCompleted": 9,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 2
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT14M32.022S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 4
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT24M57.62S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 15
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "c80ddcda-219b-42e6-82f4-94fae8516d96",
+        "PlaylistClassification": 1,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT8H26M13.845S",
+        "TotalMatchesStarted": 72,
+        "TotalMatchesCompleted": 70,
+        "TotalMatchesWon": 44,
+        "TotalMatchesLost": 28,
+        "TotalPointCaptures": 481,
+        "TotalUnitsBuilt": 1506,
+        "TotalUnitsLost": 1142,
+        "TotalUnitsDestroyed": 2240,
+        "TotalCardPlays": 1288,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Decimus": {
+            "TotalTimePlayed": "PT2H10M25.068S",
+            "TotalMatchesStarted": 21,
+            "TotalMatchesCompleted": 19,
+            "TotalMatchesWon": 15,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 5
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT1H23M41.961S",
+            "TotalMatchesStarted": 11,
+            "TotalMatchesCompleted": 11,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 50
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H44M12.746S",
+            "TotalMatchesStarted": 14,
+            "TotalMatchesCompleted": 14,
+            "TotalMatchesWon": 10,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 21
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT34M18.721S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 24
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT35M40.363S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 10
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT42M55.301S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 7
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT1H14M59.685S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 10,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 21
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "e01143a8-fb53-4bba-8d70-3a260c0a4a74",
+        "PlaylistClassification": 0,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT6H48M12.594S",
+        "TotalMatchesStarted": 33,
+        "TotalMatchesCompleted": 32,
+        "TotalMatchesWon": 17,
+        "TotalMatchesLost": 16,
+        "TotalPointCaptures": 0,
+        "TotalUnitsBuilt": 2884,
+        "TotalUnitsLost": 2796,
+        "TotalUnitsDestroyed": 3737,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Forge": {
+            "TotalTimePlayed": "PT44M43.207S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 39
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT54M37.768S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 55
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT58M25.313S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 274
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT2H25M34.709S",
+            "TotalMatchesStarted": 11,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 8,
+            "TotalLeaderPowersCast": 208
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT18M9.732S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 22
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H11M39.699S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 7,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 86
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT15M2.166S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 21
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "efa63463-b300-48e1-9bcd-6cb4b7ba4ab1",
+        "PlaylistClassification": 3,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT2H47M34.6S",
+        "TotalMatchesStarted": 8,
+        "TotalMatchesCompleted": 3,
+        "TotalMatchesWon": 0,
+        "TotalMatchesLost": 7,
+        "TotalPointCaptures": 0,
+        "TotalUnitsBuilt": 289,
+        "TotalUnitsLost": 351,
+        "TotalUnitsDestroyed": 2008,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 44,
+        "LeaderStats": {
+          "Pavium": {
+            "TotalTimePlayed": "PT56M56.282S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 13
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H1M43.636S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 19
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT7.311S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 0
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT48M47.371S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 37
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "f7fc95f5-f84c-4359-b819-b26f61ebac6e",
+        "PlaylistClassification": 1,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT12M24.267S",
+        "TotalMatchesStarted": 2,
+        "TotalMatchesCompleted": 2,
+        "TotalMatchesWon": 2,
+        "TotalMatchesLost": 0,
+        "TotalPointCaptures": 14,
+        "TotalUnitsBuilt": 69,
+        "TotalUnitsLost": 41,
+        "TotalUnitsDestroyed": 61,
+        "TotalCardPlays": 49,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Kinsano": {
+            "TotalTimePlayed": "PT12M24.267S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 17
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      }
+    ],
+    "RankedPlaylistStats": [
+      {
+        "PlaylistId": "02df2dd4-9308-4470-a6a5-578cca17987b",
+        "PlaylistClassification": 0,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT58M5.823S",
+        "TotalMatchesStarted": 4,
+        "TotalMatchesCompleted": 2,
+        "TotalMatchesWon": 1,
+        "TotalMatchesLost": 3,
+        "TotalPointCaptures": 29,
+        "TotalUnitsBuilt": 278,
+        "TotalUnitsLost": 202,
+        "TotalUnitsDestroyed": 255,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Cutter": {
+            "TotalTimePlayed": "PT16M19.109S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 5
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT10M59.429S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 2
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT18M41.406S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 14
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT12M5.879S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 4
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "16245f5f-8b0a-477b-ad4c-1a4469bff62e",
+        "PlaylistClassification": 0,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT1H8M1.002S",
+        "TotalMatchesStarted": 5,
+        "TotalMatchesCompleted": 4,
+        "TotalMatchesWon": 4,
+        "TotalMatchesLost": 1,
+        "TotalPointCaptures": 40,
+        "TotalUnitsBuilt": 321,
+        "TotalUnitsLost": 82,
+        "TotalUnitsDestroyed": 324,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Forge": {
+            "TotalTimePlayed": "PT51M10.864S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 10
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT16M50.138S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 64
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "1db29fa2-16e7-48cb-909a-063e45097914",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 6,
+          "Raw": 1671,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "P2DT6H24M12.639S",
+        "TotalMatchesStarted": 180,
+        "TotalMatchesCompleted": 165,
+        "TotalMatchesWon": 106,
+        "TotalMatchesLost": 74,
+        "TotalPointCaptures": 724,
+        "TotalUnitsBuilt": 13024,
+        "TotalUnitsLost": 7311,
+        "TotalUnitsDestroyed": 13698,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Atriox": {
+            "TotalTimePlayed": "PT17H30M11.746S",
+            "TotalMatchesStarted": 56,
+            "TotalMatchesCompleted": 55,
+            "TotalMatchesWon": 36,
+            "TotalMatchesLost": 20,
+            "TotalLeaderPowersCast": 396
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT7H45M37.238S",
+            "TotalMatchesStarted": 25,
+            "TotalMatchesCompleted": 17,
+            "TotalMatchesWon": 10,
+            "TotalMatchesLost": 15,
+            "TotalLeaderPowersCast": 154
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT2H22M4.364S",
+            "TotalMatchesStarted": 8,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 109
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT3H21M49.3S",
+            "TotalMatchesStarted": 11,
+            "TotalMatchesCompleted": 9,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 110
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT2H39M33.309S",
+            "TotalMatchesStarted": 8,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 111
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT1H11M51.986S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 11
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT17H41M23.313S",
+            "TotalMatchesStarted": 61,
+            "TotalMatchesCompleted": 57,
+            "TotalMatchesWon": 37,
+            "TotalMatchesLost": 24,
+            "TotalLeaderPowersCast": 3034
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT43M59.557S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 38
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT1H7M41.826S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 31
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "2b69cc16-8cd7-45fe-bf3c-b2b360d50296",
+        "PlaylistClassification": 1,
+        "HighestCsr": {
+          "Tier": 3,
+          "Designation": 5,
+          "Raw": 0,
+          "PercentToNextTier": 66,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "PT2H18M48.552S",
+        "TotalMatchesStarted": 28,
+        "TotalMatchesCompleted": 28,
+        "TotalMatchesWon": 28,
+        "TotalMatchesLost": 0,
+        "TotalPointCaptures": 189,
+        "TotalUnitsBuilt": 677,
+        "TotalUnitsLost": 318,
+        "TotalUnitsDestroyed": 770,
+        "TotalCardPlays": 477,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "PT51M40.425S",
+            "TotalMatchesStarted": 12,
+            "TotalMatchesCompleted": 12,
+            "TotalMatchesWon": 12,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 12
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT1H27M8.127S",
+            "TotalMatchesStarted": 16,
+            "TotalMatchesCompleted": 16,
+            "TotalMatchesWon": 16,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 81
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "379f9ee5-92ec-45d9-b5e5-9f30236cab00",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 7,
+          "Raw": 1988,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": 7
+        },
+        "TotalTimePlayed": "P9DT15H55M26.479S",
+        "TotalMatchesStarted": 1161,
+        "TotalMatchesCompleted": 920,
+        "TotalMatchesWon": 858,
+        "TotalMatchesLost": 303,
+        "TotalPointCaptures": 4453,
+        "TotalUnitsBuilt": 65855,
+        "TotalUnitsLost": 42585,
+        "TotalUnitsDestroyed": 80414,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Jerome": {
+            "TotalTimePlayed": "P1DT20H19M59.372S",
+            "TotalMatchesStarted": 222,
+            "TotalMatchesCompleted": 187,
+            "TotalMatchesWon": 167,
+            "TotalMatchesLost": 55,
+            "TotalLeaderPowersCast": 9600
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT11H17M30.192S",
+            "TotalMatchesStarted": 52,
+            "TotalMatchesCompleted": 44,
+            "TotalMatchesWon": 41,
+            "TotalMatchesLost": 11,
+            "TotalLeaderPowersCast": 320
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT23H2M46.511S",
+            "TotalMatchesStarted": 120,
+            "TotalMatchesCompleted": 86,
+            "TotalMatchesWon": 81,
+            "TotalMatchesLost": 39,
+            "TotalLeaderPowersCast": 640
+          },
+          "Cutter": {
+            "TotalTimePlayed": "P1DT21H32M21.153S",
+            "TotalMatchesStarted": 216,
+            "TotalMatchesCompleted": 157,
+            "TotalMatchesWon": 149,
+            "TotalMatchesLost": 67,
+            "TotalLeaderPowersCast": 1423
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT13H3M39.042S",
+            "TotalMatchesStarted": 71,
+            "TotalMatchesCompleted": 55,
+            "TotalMatchesWon": 49,
+            "TotalMatchesLost": 22,
+            "TotalLeaderPowersCast": 458
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT10H25M14.949S",
+            "TotalMatchesStarted": 52,
+            "TotalMatchesCompleted": 35,
+            "TotalMatchesWon": 35,
+            "TotalMatchesLost": 17,
+            "TotalLeaderPowersCast": 632
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT8H3M28.693S",
+            "TotalMatchesStarted": 28,
+            "TotalMatchesCompleted": 24,
+            "TotalMatchesWon": 20,
+            "TotalMatchesLost": 8,
+            "TotalLeaderPowersCast": 2181
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT2H3M44.734S",
+            "TotalMatchesStarted": 13,
+            "TotalMatchesCompleted": 11,
+            "TotalMatchesWon": 10,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 84
+          },
+          "YapYap": {
+            "TotalTimePlayed": "P1DT4H55M36.493S",
+            "TotalMatchesStarted": 157,
+            "TotalMatchesCompleted": 132,
+            "TotalMatchesWon": 125,
+            "TotalMatchesLost": 32,
+            "TotalLeaderPowersCast": 5508
+          },
+          "Pavium": {
+            "TotalTimePlayed": "PT5H1M4.812S",
+            "TotalMatchesStarted": 23,
+            "TotalMatchesCompleted": 19,
+            "TotalMatchesWon": 18,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 212
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT5H35M32.47S",
+            "TotalMatchesStarted": 31,
+            "TotalMatchesCompleted": 25,
+            "TotalMatchesWon": 25,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 157
+          },
+          "Serina": {
+            "TotalTimePlayed": "PT5H19M10.239S",
+            "TotalMatchesStarted": 31,
+            "TotalMatchesCompleted": 25,
+            "TotalMatchesWon": 25,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 176
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT2H7M18.216S",
+            "TotalMatchesStarted": 14,
+            "TotalMatchesCompleted": 14,
+            "TotalMatchesWon": 14,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 138
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT18H13M21.031S",
+            "TotalMatchesStarted": 89,
+            "TotalMatchesCompleted": 70,
+            "TotalMatchesWon": 65,
+            "TotalMatchesLost": 24,
+            "TotalLeaderPowersCast": 846
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT3H53M18.033S",
+            "TotalMatchesStarted": 18,
+            "TotalMatchesCompleted": 15,
+            "TotalMatchesWon": 15,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 189
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT5H1M20.539S",
+            "TotalMatchesStarted": 24,
+            "TotalMatchesCompleted": 21,
+            "TotalMatchesWon": 19,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 188
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "457c13cd-1f54-4549-8a53-fe5e39cda153",
+        "PlaylistClassification": 1,
+        "HighestCsr": {
+          "Tier": 4,
+          "Designation": 4,
+          "Raw": 0,
+          "PercentToNextTier": 40,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "PT3H30M15.214S",
+        "TotalMatchesStarted": 30,
+        "TotalMatchesCompleted": 29,
+        "TotalMatchesWon": 16,
+        "TotalMatchesLost": 14,
+        "TotalPointCaptures": 234,
+        "TotalUnitsBuilt": 663,
+        "TotalUnitsLost": 392,
+        "TotalUnitsDestroyed": 1106,
+        "TotalCardPlays": 532,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "PT43M32.771S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 10
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT15M38.116S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 3
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT46M7.421S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 7
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT25M53.946S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 13
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT14M32.014S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 0
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT45M28.342S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 3
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT14M23.571S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 1
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT4M39.033S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 2
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "482f4300-7ca4-46cf-ab21-5abe494923bd",
+        "PlaylistClassification": 1,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT23M49.495S",
+        "TotalMatchesStarted": 5,
+        "TotalMatchesCompleted": 5,
+        "TotalMatchesWon": 5,
+        "TotalMatchesLost": 0,
+        "TotalPointCaptures": 29,
+        "TotalUnitsBuilt": 62,
+        "TotalUnitsLost": 25,
+        "TotalUnitsDestroyed": 127,
+        "TotalCardPlays": 51,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Atriox": {
+            "TotalTimePlayed": "PT5M16.435S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 0
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT18M33.06S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 3
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 7,
+          "Raw": 2071,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": 69
+        },
+        "TotalTimePlayed": "P10DT3H22M25.642S",
+        "TotalMatchesStarted": 1127,
+        "TotalMatchesCompleted": 847,
+        "TotalMatchesWon": 786,
+        "TotalMatchesLost": 341,
+        "TotalPointCaptures": 5481,
+        "TotalUnitsBuilt": 60984,
+        "TotalUnitsLost": 38216,
+        "TotalUnitsDestroyed": 83031,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Johnson": {
+            "TotalTimePlayed": "PT19H54M14.751S",
+            "TotalMatchesStarted": 83,
+            "TotalMatchesCompleted": 62,
+            "TotalMatchesWon": 57,
+            "TotalMatchesLost": 26,
+            "TotalLeaderPowersCast": 1083
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT4H36M38.739S",
+            "TotalMatchesStarted": 24,
+            "TotalMatchesCompleted": 19,
+            "TotalMatchesWon": 17,
+            "TotalMatchesLost": 7,
+            "TotalLeaderPowersCast": 207
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT18H22M35.191S",
+            "TotalMatchesStarted": 89,
+            "TotalMatchesCompleted": 70,
+            "TotalMatchesWon": 65,
+            "TotalMatchesLost": 24,
+            "TotalLeaderPowersCast": 4079
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT13H5M55.344S",
+            "TotalMatchesStarted": 60,
+            "TotalMatchesCompleted": 49,
+            "TotalMatchesWon": 48,
+            "TotalMatchesLost": 12,
+            "TotalLeaderPowersCast": 565
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT16H15M55.965S",
+            "TotalMatchesStarted": 72,
+            "TotalMatchesCompleted": 54,
+            "TotalMatchesWon": 52,
+            "TotalMatchesLost": 20,
+            "TotalLeaderPowersCast": 1482
+          },
+          "Forge": {
+            "TotalTimePlayed": "P1DT10H32M52.488S",
+            "TotalMatchesStarted": 162,
+            "TotalMatchesCompleted": 110,
+            "TotalMatchesWon": 100,
+            "TotalMatchesLost": 62,
+            "TotalLeaderPowersCast": 910
+          },
+          "Cutter": {
+            "TotalTimePlayed": "P1DT12H25M10.5S",
+            "TotalMatchesStarted": 162,
+            "TotalMatchesCompleted": 117,
+            "TotalMatchesWon": 111,
+            "TotalMatchesLost": 51,
+            "TotalLeaderPowersCast": 1041
+          },
+          "YapYap": {
+            "TotalTimePlayed": "PT10H31M37.524S",
+            "TotalMatchesStarted": 54,
+            "TotalMatchesCompleted": 49,
+            "TotalMatchesWon": 45,
+            "TotalMatchesLost": 9,
+            "TotalLeaderPowersCast": 2616
+          },
+          "Serina": {
+            "TotalTimePlayed": "PT8H49M2.928S",
+            "TotalMatchesStarted": 35,
+            "TotalMatchesCompleted": 31,
+            "TotalMatchesWon": 29,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 380
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT9H10M49.764S",
+            "TotalMatchesStarted": 47,
+            "TotalMatchesCompleted": 36,
+            "TotalMatchesWon": 33,
+            "TotalMatchesLost": 14,
+            "TotalLeaderPowersCast": 290
+          },
+          "Pavium": {
+            "TotalTimePlayed": "PT7H15M3.256S",
+            "TotalMatchesStarted": 35,
+            "TotalMatchesCompleted": 31,
+            "TotalMatchesWon": 30,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 320
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT21H28M30.669S",
+            "TotalMatchesStarted": 101,
+            "TotalMatchesCompleted": 73,
+            "TotalMatchesWon": 64,
+            "TotalMatchesLost": 37,
+            "TotalLeaderPowersCast": 645
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT9H6M14.19S",
+            "TotalMatchesStarted": 38,
+            "TotalMatchesCompleted": 28,
+            "TotalMatchesWon": 25,
+            "TotalMatchesLost": 13,
+            "TotalLeaderPowersCast": 1131
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT7H24M8.702S",
+            "TotalMatchesStarted": 40,
+            "TotalMatchesCompleted": 25,
+            "TotalMatchesWon": 20,
+            "TotalMatchesLost": 20,
+            "TotalLeaderPowersCast": 345
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT10H11M31.374S",
+            "TotalMatchesStarted": 44,
+            "TotalMatchesCompleted": 32,
+            "TotalMatchesWon": 31,
+            "TotalMatchesLost": 13,
+            "TotalLeaderPowersCast": 365
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT16H12M4.257S",
+            "TotalMatchesStarted": 81,
+            "TotalMatchesCompleted": 61,
+            "TotalMatchesWon": 59,
+            "TotalMatchesLost": 22,
+            "TotalLeaderPowersCast": 638
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "532bfd6c-3db4-45b7-a010-11460b862be6",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 6,
+          "Raw": 1532,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "PT2H39M44.709S",
+        "TotalMatchesStarted": 13,
+        "TotalMatchesCompleted": 12,
+        "TotalMatchesWon": 11,
+        "TotalMatchesLost": 2,
+        "TotalPointCaptures": 41,
+        "TotalUnitsBuilt": 690,
+        "TotalUnitsLost": 326,
+        "TotalUnitsDestroyed": 492,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Johnson": {
+            "TotalTimePlayed": "PT6M29.346S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 3
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT22M7.445S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 13
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT22M49.783S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 5
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT1H19M17.295S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 161
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT18M25.806S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 7
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT10M35.034S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 3
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "548d864e-8666-430e-9140-8dd2ad8fbfcd",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 7,
+          "Raw": 1870,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": 1
+        },
+        "TotalTimePlayed": "P17DT7H36M47.884S",
+        "TotalMatchesStarted": 1957,
+        "TotalMatchesCompleted": 1546,
+        "TotalMatchesWon": 1425,
+        "TotalMatchesLost": 532,
+        "TotalPointCaptures": 5508,
+        "TotalUnitsBuilt": 124498,
+        "TotalUnitsLost": 88075,
+        "TotalUnitsDestroyed": 102107,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Cutter": {
+            "TotalTimePlayed": "P3DT2H59M47.117S",
+            "TotalMatchesStarted": 359,
+            "TotalMatchesCompleted": 285,
+            "TotalMatchesWon": 269,
+            "TotalMatchesLost": 90,
+            "TotalLeaderPowersCast": 2605
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT21H11M42.595S",
+            "TotalMatchesStarted": 89,
+            "TotalMatchesCompleted": 60,
+            "TotalMatchesWon": 58,
+            "TotalMatchesLost": 31,
+            "TotalLeaderPowersCast": 1179
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "P1DT2H18M15.572S",
+            "TotalMatchesStarted": 115,
+            "TotalMatchesCompleted": 93,
+            "TotalMatchesWon": 84,
+            "TotalMatchesLost": 31,
+            "TotalLeaderPowersCast": 872
+          },
+          "Forge": {
+            "TotalTimePlayed": "P1DT21H7M43.968S",
+            "TotalMatchesStarted": 173,
+            "TotalMatchesCompleted": 121,
+            "TotalMatchesWon": 113,
+            "TotalMatchesLost": 60,
+            "TotalLeaderPowersCast": 1524
+          },
+          "YapYap": {
+            "TotalTimePlayed": "P3DT1H24M51.663S",
+            "TotalMatchesStarted": 388,
+            "TotalMatchesCompleted": 361,
+            "TotalMatchesWon": 327,
+            "TotalMatchesLost": 61,
+            "TotalLeaderPowersCast": 11607
+          },
+          "Atriox": {
+            "TotalTimePlayed": "P1DT9H39M42.295S",
+            "TotalMatchesStarted": 173,
+            "TotalMatchesCompleted": 133,
+            "TotalMatchesWon": 126,
+            "TotalMatchesLost": 47,
+            "TotalLeaderPowersCast": 1316
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT16H16M29.003S",
+            "TotalMatchesStarted": 76,
+            "TotalMatchesCompleted": 50,
+            "TotalMatchesWon": 46,
+            "TotalMatchesLost": 30,
+            "TotalLeaderPowersCast": 1053
+          },
+          "Anders": {
+            "TotalTimePlayed": "P1DT10H47M51.909S",
+            "TotalMatchesStarted": 163,
+            "TotalMatchesCompleted": 136,
+            "TotalMatchesWon": 116,
+            "TotalMatchesLost": 47,
+            "TotalLeaderPowersCast": 3612
+          },
+          "Pavium": {
+            "TotalTimePlayed": "PT7H33M0.537S",
+            "TotalMatchesStarted": 40,
+            "TotalMatchesCompleted": 36,
+            "TotalMatchesWon": 35,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 363
+          },
+          "Jerome": {
+            "TotalTimePlayed": "P1DT13H33M59.591S",
+            "TotalMatchesStarted": 169,
+            "TotalMatchesCompleted": 138,
+            "TotalMatchesWon": 124,
+            "TotalMatchesLost": 45,
+            "TotalLeaderPowersCast": 7906
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT4H35M15.43S",
+            "TotalMatchesStarted": 24,
+            "TotalMatchesCompleted": 15,
+            "TotalMatchesWon": 12,
+            "TotalMatchesLost": 12,
+            "TotalLeaderPowersCast": 185
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT4H7.104S",
+            "TotalMatchesStarted": 16,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 10,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 238
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT10H6M14.171S",
+            "TotalMatchesStarted": 57,
+            "TotalMatchesCompleted": 43,
+            "TotalMatchesWon": 41,
+            "TotalMatchesLost": 16,
+            "TotalLeaderPowersCast": 305
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT7H44M35.042S",
+            "TotalMatchesStarted": 33,
+            "TotalMatchesCompleted": 21,
+            "TotalMatchesWon": 20,
+            "TotalMatchesLost": 13,
+            "TotalLeaderPowersCast": 385
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT15H37M48.99S",
+            "TotalMatchesStarted": 64,
+            "TotalMatchesCompleted": 33,
+            "TotalMatchesWon": 33,
+            "TotalMatchesLost": 31,
+            "TotalLeaderPowersCast": 1473
+          },
+          "Serina": {
+            "TotalTimePlayed": "PT2H39M22.897S",
+            "TotalMatchesStarted": 18,
+            "TotalMatchesCompleted": 11,
+            "TotalMatchesWon": 11,
+            "TotalMatchesLost": 7,
+            "TotalLeaderPowersCast": 98
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "65fdbe5e-4269-4808-81ef-95365d78d038",
+        "PlaylistClassification": 1,
+        "HighestCsr": {
+          "Tier": 3,
+          "Designation": 5,
+          "Raw": 0,
+          "PercentToNextTier": 10,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "PT2H2M53.789S",
+        "TotalMatchesStarted": 19,
+        "TotalMatchesCompleted": 17,
+        "TotalMatchesWon": 13,
+        "TotalMatchesLost": 6,
+        "TotalPointCaptures": 156,
+        "TotalUnitsBuilt": 314,
+        "TotalUnitsLost": 214,
+        "TotalUnitsDestroyed": 647,
+        "TotalCardPlays": 296,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Atriox": {
+            "TotalTimePlayed": "PT31M29.926S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 6
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT37M15.229S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 21
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT54M8.634S",
+            "TotalMatchesStarted": 8,
+            "TotalMatchesCompleted": 7,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 18
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "6b776321-2bc6-4a4d-b76f-a424a7309895",
+        "PlaylistClassification": 1,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT51M8.79S",
+        "TotalMatchesStarted": 9,
+        "TotalMatchesCompleted": 8,
+        "TotalMatchesWon": 8,
+        "TotalMatchesLost": 1,
+        "TotalPointCaptures": 56,
+        "TotalUnitsBuilt": 124,
+        "TotalUnitsLost": 83,
+        "TotalUnitsDestroyed": 259,
+        "TotalCardPlays": 114,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "PT51M8.79S",
+            "TotalMatchesStarted": 9,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 8,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 14
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "7ab12c84-e150-49b2-adb2-942dac3c11d1",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 5,
+          "Designation": 4,
+          "Raw": 0,
+          "PercentToNextTier": 46,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "PT2H19M31.365S",
+        "TotalMatchesStarted": 12,
+        "TotalMatchesCompleted": 12,
+        "TotalMatchesWon": 12,
+        "TotalMatchesLost": 0,
+        "TotalPointCaptures": 69,
+        "TotalUnitsBuilt": 186,
+        "TotalUnitsLost": 147,
+        "TotalUnitsDestroyed": 747,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "PT1H50M59.744S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 10,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 41
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT14M3.34S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 14
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT14M28.281S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 18
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "7b011a5d-8e8e-4f4a-8229-e4db0779f927",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 5,
+          "Designation": 4,
+          "Raw": 0,
+          "PercentToNextTier": 52,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "P1DT19H8M39.268S",
+        "TotalMatchesStarted": 119,
+        "TotalMatchesCompleted": 93,
+        "TotalMatchesWon": 58,
+        "TotalMatchesLost": 61,
+        "TotalPointCaptures": 474,
+        "TotalUnitsBuilt": 5593,
+        "TotalUnitsLost": 5905,
+        "TotalUnitsDestroyed": 11541,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "PT1H38M16.14S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 45
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT2H1M3.92S",
+            "TotalMatchesStarted": 9,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 37
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT3H36M48.956S",
+            "TotalMatchesStarted": 9,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 70
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT4H33M11.896S",
+            "TotalMatchesStarted": 9,
+            "TotalMatchesCompleted": 7,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 171
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT5H29M46.8S",
+            "TotalMatchesStarted": 14,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 8,
+            "TotalLeaderPowersCast": 132
+          },
+          "Atriox": {
+            "TotalTimePlayed": "P1DT1H26M34.692S",
+            "TotalMatchesStarted": 71,
+            "TotalMatchesCompleted": 59,
+            "TotalMatchesWon": 38,
+            "TotalMatchesLost": 33,
+            "TotalLeaderPowersCast": 702
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT22M56.864S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 18
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "7c625f1c-4c66-4484-8cde-a261e3b4d104",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 7,
+          "Raw": 2099,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": 1
+        },
+        "TotalTimePlayed": "P10DT6H54M25.756S",
+        "TotalMatchesStarted": 1168,
+        "TotalMatchesCompleted": 1149,
+        "TotalMatchesWon": 906,
+        "TotalMatchesLost": 262,
+        "TotalPointCaptures": 4370,
+        "TotalUnitsBuilt": 58668,
+        "TotalUnitsLost": 39019,
+        "TotalUnitsDestroyed": 68959,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Forge": {
+            "TotalTimePlayed": "PT11H24M15.884S",
+            "TotalMatchesStarted": 47,
+            "TotalMatchesCompleted": 44,
+            "TotalMatchesWon": 29,
+            "TotalMatchesLost": 18,
+            "TotalLeaderPowersCast": 373
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT5H37M32.337S",
+            "TotalMatchesStarted": 36,
+            "TotalMatchesCompleted": 34,
+            "TotalMatchesWon": 30,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 276
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT9H59M2.208S",
+            "TotalMatchesStarted": 44,
+            "TotalMatchesCompleted": 44,
+            "TotalMatchesWon": 37,
+            "TotalMatchesLost": 7,
+            "TotalLeaderPowersCast": 1253
+          },
+          "Jerome": {
+            "TotalTimePlayed": "P1DT19H27M15.134S",
+            "TotalMatchesStarted": 215,
+            "TotalMatchesCompleted": 212,
+            "TotalMatchesWon": 172,
+            "TotalMatchesLost": 43,
+            "TotalLeaderPowersCast": 7124
+          },
+          "Atriox": {
+            "TotalTimePlayed": "P1DT11H13M53.261S",
+            "TotalMatchesStarted": 137,
+            "TotalMatchesCompleted": 131,
+            "TotalMatchesWon": 98,
+            "TotalMatchesLost": 39,
+            "TotalLeaderPowersCast": 834
+          },
+          "Decimus": {
+            "TotalTimePlayed": "P1DT4H37M14.857S",
+            "TotalMatchesStarted": 142,
+            "TotalMatchesCompleted": 141,
+            "TotalMatchesWon": 115,
+            "TotalMatchesLost": 27,
+            "TotalLeaderPowersCast": 1064
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT7H4M47.467S",
+            "TotalMatchesStarted": 37,
+            "TotalMatchesCompleted": 37,
+            "TotalMatchesWon": 25,
+            "TotalMatchesLost": 12,
+            "TotalLeaderPowersCast": 244
+          },
+          "Cutter": {
+            "TotalTimePlayed": "P2DT12.866S",
+            "TotalMatchesStarted": 225,
+            "TotalMatchesCompleted": 222,
+            "TotalMatchesWon": 162,
+            "TotalMatchesLost": 63,
+            "TotalLeaderPowersCast": 1545
+          },
+          "Pavium": {
+            "TotalTimePlayed": "P1DT2H1M52.686S",
+            "TotalMatchesStarted": 123,
+            "TotalMatchesCompleted": 122,
+            "TotalMatchesWon": 106,
+            "TotalMatchesLost": 17,
+            "TotalLeaderPowersCast": 1093
+          },
+          "Serina": {
+            "TotalTimePlayed": "PT5H47M11.891S",
+            "TotalMatchesStarted": 32,
+            "TotalMatchesCompleted": 32,
+            "TotalMatchesWon": 27,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 198
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT2H40M39.767S",
+            "TotalMatchesStarted": 13,
+            "TotalMatchesCompleted": 13,
+            "TotalMatchesWon": 10,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 148
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT2H1M33.114S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 141
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT2H34M56.987S",
+            "TotalMatchesStarted": 13,
+            "TotalMatchesCompleted": 13,
+            "TotalMatchesWon": 10,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 79
+          },
+          "YapYap": {
+            "TotalTimePlayed": "PT16H27M49.411S",
+            "TotalMatchesStarted": 86,
+            "TotalMatchesCompleted": 86,
+            "TotalMatchesWon": 72,
+            "TotalMatchesLost": 14,
+            "TotalLeaderPowersCast": 2277
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT1H8M46.351S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 47
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT47M21.535S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 34
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "b351a500-d165-411d-84bc-5f3d2f0ff1fb",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 6,
+          "Raw": 1516,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "PT7H36M34.811S",
+        "TotalMatchesStarted": 29,
+        "TotalMatchesCompleted": 28,
+        "TotalMatchesWon": 26,
+        "TotalMatchesLost": 3,
+        "TotalPointCaptures": 166,
+        "TotalUnitsBuilt": 2116,
+        "TotalUnitsLost": 1794,
+        "TotalUnitsDestroyed": 2267,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Cutter": {
+            "TotalTimePlayed": "PT14M44.769S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 11
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT33M5.807S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 82
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT6H18M48.234S",
+            "TotalMatchesStarted": 24,
+            "TotalMatchesCompleted": 23,
+            "TotalMatchesWon": 22,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 568
+          },
+          "YapYap": {
+            "TotalTimePlayed": "PT29M56.001S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 85
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "ba94f862-2f05-474f-b405-4e4dd3a34a10",
+        "PlaylistClassification": 1,
+        "HighestCsr": {
+          "Tier": 2,
+          "Designation": 5,
+          "Raw": 0,
+          "PercentToNextTier": 96,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "PT11H46M44.909S",
+        "TotalMatchesStarted": 94,
+        "TotalMatchesCompleted": 92,
+        "TotalMatchesWon": 58,
+        "TotalMatchesLost": 36,
+        "TotalPointCaptures": 800,
+        "TotalUnitsBuilt": 2232,
+        "TotalUnitsLost": 1531,
+        "TotalUnitsDestroyed": 4073,
+        "TotalCardPlays": 1996,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "PT7H16M48.039S",
+            "TotalMatchesStarted": 59,
+            "TotalMatchesCompleted": 59,
+            "TotalMatchesWon": 40,
+            "TotalMatchesLost": 19,
+            "TotalLeaderPowersCast": 113
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT1H9M27.356S",
+            "TotalMatchesStarted": 9,
+            "TotalMatchesCompleted": 9,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 12
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT51M32.402S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 23
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT36M58.24S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 8
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT39M8.112S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 0
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT31M23.798S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 0
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT27M57.603S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 10
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT13M29.359S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 8
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "c919e04a-7104-454b-b45f-9d567bb51252",
+        "PlaylistClassification": 0,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT32M25.606S",
+        "TotalMatchesStarted": 3,
+        "TotalMatchesCompleted": 3,
+        "TotalMatchesWon": 3,
+        "TotalMatchesLost": 0,
+        "TotalPointCaptures": 17,
+        "TotalUnitsBuilt": 26,
+        "TotalUnitsLost": 37,
+        "TotalUnitsDestroyed": 165,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "PT32M25.606S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 19
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "d91919ff-ac39-435d-bf20-2317c2577569",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 3,
+          "Designation": 4,
+          "Raw": 0,
+          "PercentToNextTier": 84,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "PT3H56M40.504S",
+        "TotalMatchesStarted": 10,
+        "TotalMatchesCompleted": 9,
+        "TotalMatchesWon": 6,
+        "TotalMatchesLost": 4,
+        "TotalPointCaptures": 32,
+        "TotalUnitsBuilt": 491,
+        "TotalUnitsLost": 509,
+        "TotalUnitsDestroyed": 698,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Decimus": {
+            "TotalTimePlayed": "PT47M22.33S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 14
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT20M11.359S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 6
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT18M21.435S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 4
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H49M52.218S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 64
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT40M53.162S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 24
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "e14da04f-796c-416c-a0f7-5d8c32ed64ce",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 7,
+          "Raw": 1884,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": 83
+        },
+        "TotalTimePlayed": "P3DT23H30M53.255S",
+        "TotalMatchesStarted": 310,
+        "TotalMatchesCompleted": 281,
+        "TotalMatchesWon": 156,
+        "TotalMatchesLost": 154,
+        "TotalPointCaptures": 1264,
+        "TotalUnitsBuilt": 17297,
+        "TotalUnitsLost": 12136,
+        "TotalUnitsDestroyed": 24740,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Lekgolo": {
+            "TotalTimePlayed": "P1DT22M45.11S",
+            "TotalMatchesStarted": 77,
+            "TotalMatchesCompleted": 73,
+            "TotalMatchesWon": 40,
+            "TotalMatchesLost": 37,
+            "TotalLeaderPowersCast": 831
+          },
+          "Atriox": {
+            "TotalTimePlayed": "P1DT5H9M54.143S",
+            "TotalMatchesStarted": 100,
+            "TotalMatchesCompleted": 89,
+            "TotalMatchesWon": 46,
+            "TotalMatchesLost": 54,
+            "TotalLeaderPowersCast": 603
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT14H31M43.741S",
+            "TotalMatchesStarted": 41,
+            "TotalMatchesCompleted": 36,
+            "TotalMatchesWon": 21,
+            "TotalMatchesLost": 20,
+            "TotalLeaderPowersCast": 359
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT15H12M3.325S",
+            "TotalMatchesStarted": 45,
+            "TotalMatchesCompleted": 41,
+            "TotalMatchesWon": 24,
+            "TotalMatchesLost": 21,
+            "TotalLeaderPowersCast": 785
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT3H28M19.807S",
+            "TotalMatchesStarted": 14,
+            "TotalMatchesCompleted": 13,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 7,
+            "TotalLeaderPowersCast": 81
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT1H35M22.905S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 57
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT24M13.662S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 5
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT11M50.724S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 8
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT27M48.51S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 13
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT6H6M51.328S",
+            "TotalMatchesStarted": 23,
+            "TotalMatchesCompleted": 21,
+            "TotalMatchesWon": 14,
+            "TotalMatchesLost": 9,
+            "TotalLeaderPowersCast": 982
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "effd0965-78b2-4c65-a0d0-afc193c98f4a",
+        "PlaylistClassification": 1,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 7,
+          "Raw": 1719,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": 19
+        },
+        "TotalTimePlayed": "PT5H51M50.326S",
+        "TotalMatchesStarted": 79,
+        "TotalMatchesCompleted": 78,
+        "TotalMatchesWon": 71,
+        "TotalMatchesLost": 8,
+        "TotalPointCaptures": 453,
+        "TotalUnitsBuilt": 1614,
+        "TotalUnitsLost": 892,
+        "TotalUnitsDestroyed": 1507,
+        "TotalCardPlays": 1144,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "PT2H18M30.08S",
+            "TotalMatchesStarted": 29,
+            "TotalMatchesCompleted": 29,
+            "TotalMatchesWon": 23,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 51
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT3H33M20.246S",
+            "TotalMatchesStarted": 50,
+            "TotalMatchesCompleted": 49,
+            "TotalMatchesWon": 48,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 167
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "f98a4189-b766-41fa-afe3-4ff385304ee4",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 7,
+          "Raw": 2038,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": 7
+        },
+        "TotalTimePlayed": "P4DT9H3M24.298S",
+        "TotalMatchesStarted": 421,
+        "TotalMatchesCompleted": 419,
+        "TotalMatchesWon": 308,
+        "TotalMatchesLost": 113,
+        "TotalPointCaptures": 1400,
+        "TotalUnitsBuilt": 27421,
+        "TotalUnitsLost": 21373,
+        "TotalUnitsDestroyed": 23484,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Jerome": {
+            "TotalTimePlayed": "PT7H48M27.763S",
+            "TotalMatchesStarted": 29,
+            "TotalMatchesCompleted": 29,
+            "TotalMatchesWon": 17,
+            "TotalMatchesLost": 12,
+            "TotalLeaderPowersCast": 1322
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT6H28M53.887S",
+            "TotalMatchesStarted": 20,
+            "TotalMatchesCompleted": 19,
+            "TotalMatchesWon": 12,
+            "TotalMatchesLost": 8,
+            "TotalLeaderPowersCast": 204
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT8H42M57.827S",
+            "TotalMatchesStarted": 42,
+            "TotalMatchesCompleted": 42,
+            "TotalMatchesWon": 30,
+            "TotalMatchesLost": 12,
+            "TotalLeaderPowersCast": 358
+          },
+          "Cutter": {
+            "TotalTimePlayed": "P1DT5H23M18.128S",
+            "TotalMatchesStarted": 125,
+            "TotalMatchesCompleted": 124,
+            "TotalMatchesWon": 96,
+            "TotalMatchesLost": 29,
+            "TotalLeaderPowersCast": 1191
+          },
+          "Pavium": {
+            "TotalTimePlayed": "PT8H16M27.389S",
+            "TotalMatchesStarted": 30,
+            "TotalMatchesCompleted": 30,
+            "TotalMatchesWon": 21,
+            "TotalMatchesLost": 9,
+            "TotalLeaderPowersCast": 380
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT6H55M27.053S",
+            "TotalMatchesStarted": 26,
+            "TotalMatchesCompleted": 26,
+            "TotalMatchesWon": 18,
+            "TotalMatchesLost": 8,
+            "TotalLeaderPowersCast": 215
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT9H39M24.712S",
+            "TotalMatchesStarted": 38,
+            "TotalMatchesCompleted": 38,
+            "TotalMatchesWon": 29,
+            "TotalMatchesLost": 9,
+            "TotalLeaderPowersCast": 1270
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT9H44M15.681S",
+            "TotalMatchesStarted": 39,
+            "TotalMatchesCompleted": 39,
+            "TotalMatchesWon": 29,
+            "TotalMatchesLost": 10,
+            "TotalLeaderPowersCast": 701
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT1H8M36.908S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 7,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 59
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT2H49M43.77S",
+            "TotalMatchesStarted": 13,
+            "TotalMatchesCompleted": 13,
+            "TotalMatchesWon": 12,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 231
+          },
+          "YapYap": {
+            "TotalTimePlayed": "PT10H30M24.06S",
+            "TotalMatchesStarted": 40,
+            "TotalMatchesCompleted": 40,
+            "TotalMatchesWon": 30,
+            "TotalMatchesLost": 10,
+            "TotalLeaderPowersCast": 1167
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT3H9M2.678S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 144
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT26M24.442S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 13
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "fdee2fdf-86a8-466c-b3f3-c4d9cf08f7ba",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 2,
+          "Designation": 4,
+          "Raw": 0,
+          "PercentToNextTier": 50,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": null
+        },
+        "TotalTimePlayed": "PT13H38M24.12S",
+        "TotalMatchesStarted": 39,
+        "TotalMatchesCompleted": 29,
+        "TotalMatchesWon": 19,
+        "TotalMatchesLost": 20,
+        "TotalPointCaptures": 162,
+        "TotalUnitsBuilt": 1902,
+        "TotalUnitsLost": 2023,
+        "TotalUnitsDestroyed": 3114,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "PT5H7M28.54S",
+            "TotalMatchesStarted": 12,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 145
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT27M13.734S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 12
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT37M7.233S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 7
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT1H34M34.641S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 32
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT2H20M26.177S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 41
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT3H31M33.795S",
+            "TotalMatchesStarted": 11,
+            "TotalMatchesCompleted": 9,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 94
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      {
+        "PlaylistId": "fe8e1773-adc6-43d0-a23f-4599987ce0f4",
+        "PlaylistClassification": 0,
+        "HighestCsr": {
+          "Tier": 1,
+          "Designation": 7,
+          "Raw": 1841,
+          "PercentToNextTier": 0,
+          "MeasurementMatchesRemaining": 0,
+          "Rank": 23
+        },
+        "TotalTimePlayed": "P4DT13H23M12.431S",
+        "TotalMatchesStarted": 514,
+        "TotalMatchesCompleted": 499,
+        "TotalMatchesWon": 404,
+        "TotalMatchesLost": 110,
+        "TotalPointCaptures": 2174,
+        "TotalUnitsBuilt": 25504,
+        "TotalUnitsLost": 15443,
+        "TotalUnitsDestroyed": 30846,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Atriox": {
+            "TotalTimePlayed": "PT16H51.62S",
+            "TotalMatchesStarted": 63,
+            "TotalMatchesCompleted": 60,
+            "TotalMatchesWon": 36,
+            "TotalMatchesLost": 27,
+            "TotalLeaderPowersCast": 361
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT6H35M38.781S",
+            "TotalMatchesStarted": 27,
+            "TotalMatchesCompleted": 26,
+            "TotalMatchesWon": 15,
+            "TotalMatchesLost": 12,
+            "TotalLeaderPowersCast": 193
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT13H3M37.211S",
+            "TotalMatchesStarted": 55,
+            "TotalMatchesCompleted": 53,
+            "TotalMatchesWon": 37,
+            "TotalMatchesLost": 18,
+            "TotalLeaderPowersCast": 304
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT3H22M10.798S",
+            "TotalMatchesStarted": 11,
+            "TotalMatchesCompleted": 11,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 138
+          },
+          "YapYap": {
+            "TotalTimePlayed": "PT6H36M18.012S",
+            "TotalMatchesStarted": 30,
+            "TotalMatchesCompleted": 29,
+            "TotalMatchesWon": 24,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 1310
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT15H24M32.224S",
+            "TotalMatchesStarted": 69,
+            "TotalMatchesCompleted": 68,
+            "TotalMatchesWon": 57,
+            "TotalMatchesLost": 12,
+            "TotalLeaderPowersCast": 567
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT14H26M14.454S",
+            "TotalMatchesStarted": 80,
+            "TotalMatchesCompleted": 78,
+            "TotalMatchesWon": 72,
+            "TotalMatchesLost": 8,
+            "TotalLeaderPowersCast": 1946
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT6H11M1.929S",
+            "TotalMatchesStarted": 29,
+            "TotalMatchesCompleted": 27,
+            "TotalMatchesWon": 23,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 303
+          },
+          "Serina": {
+            "TotalTimePlayed": "PT2H30M58.779S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 9,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 104
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT14H33M58.578S",
+            "TotalMatchesStarted": 84,
+            "TotalMatchesCompleted": 82,
+            "TotalMatchesWon": 76,
+            "TotalMatchesLost": 8,
+            "TotalLeaderPowersCast": 337
+          },
+          "Pavium": {
+            "TotalTimePlayed": "PT6H50M33.985S",
+            "TotalMatchesStarted": 36,
+            "TotalMatchesCompleted": 36,
+            "TotalMatchesWon": 33,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 276
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT26M28.138S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 7
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT1H50M34.546S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 9,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 93
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT25M9.826S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 15
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT39M27.094S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 52
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT25M36.456S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 20
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      }
+    ],
+    "SocialModeStats": [
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT12H42M56.437S",
+        "TotalMatchesStarted": 104,
+        "TotalMatchesCompleted": 100,
+        "TotalMatchesWon": 61,
+        "TotalMatchesLost": 43,
+        "TotalPointCaptures": 728,
+        "TotalUnitsBuilt": 2240,
+        "TotalUnitsLost": 1747,
+        "TotalUnitsDestroyed": 3588,
+        "TotalCardPlays": 1934,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Decimus": {
+            "TotalTimePlayed": "PT3H39M59.425S",
+            "TotalMatchesStarted": 33,
+            "TotalMatchesCompleted": 29,
+            "TotalMatchesWon": 22,
+            "TotalMatchesLost": 11,
+            "TotalLeaderPowersCast": 7
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT2H32M42.621S",
+            "TotalMatchesStarted": 18,
+            "TotalMatchesCompleted": 18,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 11,
+            "TotalLeaderPowersCast": 84
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT1H16M20.249S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 7,
+            "TotalLeaderPowersCast": 15
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H54M34.589S",
+            "TotalMatchesStarted": 15,
+            "TotalMatchesCompleted": 15,
+            "TotalMatchesWon": 10,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 22
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT48M50.743S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 28
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT35M40.363S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 10
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT1H17M26.56S",
+            "TotalMatchesStarted": 11,
+            "TotalMatchesCompleted": 11,
+            "TotalMatchesWon": 11,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 22
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT37M21.887S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 32
+          }
+        },
+        "GameMode": 6,
+        "HighestObjectiveScoreByTeamSize": {
+          "2": 200,
+          "3": 200,
+          "1": 200
+        }
+      },
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "P1DT9H51M20.952S",
+        "TotalMatchesStarted": 159,
+        "TotalMatchesCompleted": 138,
+        "TotalMatchesWon": 129,
+        "TotalMatchesLost": 30,
+        "TotalPointCaptures": 599,
+        "TotalUnitsBuilt": 7407,
+        "TotalUnitsLost": 4420,
+        "TotalUnitsDestroyed": 9913,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Decimus": {
+            "TotalTimePlayed": "PT2H26M2.472S",
+            "TotalMatchesStarted": 9,
+            "TotalMatchesCompleted": 9,
+            "TotalMatchesWon": 8,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 51
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT5H6M0.131S",
+            "TotalMatchesStarted": 21,
+            "TotalMatchesCompleted": 18,
+            "TotalMatchesWon": 16,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 146
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT4H59M56.357S",
+            "TotalMatchesStarted": 22,
+            "TotalMatchesCompleted": 18,
+            "TotalMatchesWon": 17,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 92
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT2H15M6.054S",
+            "TotalMatchesStarted": 12,
+            "TotalMatchesCompleted": 11,
+            "TotalMatchesWon": 11,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 54
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT1H45M2.392S",
+            "TotalMatchesStarted": 8,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 259
+          },
+          "YapYap": {
+            "TotalTimePlayed": "PT1H9M3.52S",
+            "TotalMatchesStarted": 6,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 398
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT2H58M5.157S",
+            "TotalMatchesStarted": 15,
+            "TotalMatchesCompleted": 13,
+            "TotalMatchesWon": 12,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 101
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT1H25M47.022S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 7,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 48
+          },
+          "Serina": {
+            "TotalTimePlayed": "PT1H51M8.634S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 9,
+            "TotalMatchesWon": 8,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 49
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT1H30M15.114S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 63
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT1H6M36.595S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 63
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT3H32M55.261S",
+            "TotalMatchesStarted": 16,
+            "TotalMatchesCompleted": 12,
+            "TotalMatchesWon": 11,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 107
+          },
+          "Pavium": {
+            "TotalTimePlayed": "PT28M21.909S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 21
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "PT1H33M16.925S",
+            "TotalMatchesStarted": 8,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 8,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 123
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT37M42.993S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 13
+          },
+          "Johnson": {
+            "TotalTimePlayed": "PT1H6M0.416S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 55
+          }
+        },
+        "GameMode": 3,
+        "HighestObjectiveScoreByTeamSize": {
+          "2": 2,
+          "3": 0,
+          "1": 6
+        }
+      },
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT11H26M43.436S",
+        "TotalMatchesStarted": 37,
+        "TotalMatchesCompleted": 28,
+        "TotalMatchesWon": 16,
+        "TotalMatchesLost": 21,
+        "TotalPointCaptures": 241,
+        "TotalUnitsBuilt": 1534,
+        "TotalUnitsLost": 1401,
+        "TotalUnitsDestroyed": 2180,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Cutter": {
+            "TotalTimePlayed": "PT2H57M23.507S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 48
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT3H30M47.38S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 6,
+            "TotalLeaderPowersCast": 66
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H45M50.261S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 6,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 38
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT16M41.862S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 21
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT1H31M14.257S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 32
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT1H28.754S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 20
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT24M17.415S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 8
+          }
+        },
+        "GameMode": 4,
+        "HighestObjectiveScoreByTeamSize": {
+          "3": 3610,
+          "2": 3020
+        }
+      },
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT2H47M34.6S",
+        "TotalMatchesStarted": 8,
+        "TotalMatchesCompleted": 3,
+        "TotalMatchesWon": 0,
+        "TotalMatchesLost": 7,
+        "TotalPointCaptures": 0,
+        "TotalUnitsBuilt": 289,
+        "TotalUnitsLost": 351,
+        "TotalUnitsDestroyed": 2008,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 44,
+        "LeaderStats": {
+          "Pavium": {
+            "TotalTimePlayed": "PT56M56.282S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 13
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H1M43.636S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 19
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT7.311S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 0
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT48M47.371S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 37
+          }
+        },
+        "GameMode": 10,
+        "HighestObjectiveScoreByTeamSize": {
+          "3": 0,
+          "2": 0
+        }
+      },
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT6H48M12.594S",
+        "TotalMatchesStarted": 33,
+        "TotalMatchesCompleted": 32,
+        "TotalMatchesWon": 17,
+        "TotalMatchesLost": 16,
+        "TotalPointCaptures": 0,
+        "TotalUnitsBuilt": 2884,
+        "TotalUnitsLost": 2796,
+        "TotalUnitsDestroyed": 3737,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Forge": {
+            "TotalTimePlayed": "PT44M43.207S",
+            "TotalMatchesStarted": 3,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 39
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT54M37.768S",
+            "TotalMatchesStarted": 4,
+            "TotalMatchesCompleted": 4,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 55
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT58M25.313S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 274
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT2H25M34.709S",
+            "TotalMatchesStarted": 11,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 8,
+            "TotalLeaderPowersCast": 208
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT18M9.732S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 2,
+            "TotalMatchesWon": 2,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 22
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H11M39.699S",
+            "TotalMatchesStarted": 7,
+            "TotalMatchesCompleted": 7,
+            "TotalMatchesWon": 6,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 86
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT15M2.166S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 21
+          }
+        },
+        "GameMode": 5,
+        "HighestObjectiveScoreByTeamSize": {
+          "3": 7
+        }
+      }
+    ],
+    "RankedModeStats": [
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "P1DT2H45M31.075S",
+        "TotalMatchesStarted": 264,
+        "TotalMatchesCompleted": 257,
+        "TotalMatchesWon": 199,
+        "TotalMatchesLost": 65,
+        "TotalPointCaptures": 1917,
+        "TotalUnitsBuilt": 5686,
+        "TotalUnitsLost": 3455,
+        "TotalUnitsDestroyed": 8489,
+        "TotalCardPlays": 4610,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "PT13H14M21.799S",
+            "TotalMatchesStarted": 127,
+            "TotalMatchesCompleted": 125,
+            "TotalMatchesWon": 96,
+            "TotalMatchesLost": 31,
+            "TotalLeaderPowersCast": 221
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT1H29M22.717S",
+            "TotalMatchesStarted": 14,
+            "TotalMatchesCompleted": 13,
+            "TotalMatchesWon": 9,
+            "TotalMatchesLost": 5,
+            "TotalLeaderPowersCast": 17
+          },
+          "Forge": {
+            "TotalTimePlayed": "PT1H55M34.777S",
+            "TotalMatchesStarted": 16,
+            "TotalMatchesCompleted": 15,
+            "TotalMatchesWon": 5,
+            "TotalMatchesLost": 11,
+            "TotalLeaderPowersCast": 19
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT1H17M26.348S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 7,
+            "TotalLeaderPowersCast": 36
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT53M40.126S",
+            "TotalMatchesStarted": 8,
+            "TotalMatchesCompleted": 8,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 4,
+            "TotalLeaderPowersCast": 0
+          },
+          "Isabel": {
+            "TotalTimePlayed": "PT1H16M52.14S",
+            "TotalMatchesStarted": 10,
+            "TotalMatchesCompleted": 10,
+            "TotalMatchesWon": 7,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 3
+          },
+          "Anders": {
+            "TotalTimePlayed": "PT42M21.174S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 5,
+            "TotalMatchesWon": 4,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 11
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "PT5H55M51.994S",
+            "TotalMatchesStarted": 74,
+            "TotalMatchesCompleted": 73,
+            "TotalMatchesWon": 71,
+            "TotalMatchesLost": 3,
+            "TotalLeaderPowersCast": 279
+          }
+        },
+        "GameMode": 6,
+        "HighestObjectiveScoreByTeamSize": {
+          "2": 200,
+          "3": 200,
+          "1": 200
+        }
+      },
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "P65DT16H2M48.767S",
+        "TotalMatchesStarted": 7063,
+        "TotalMatchesCompleted": 6012,
+        "TotalMatchesWon": 5084,
+        "TotalMatchesLost": 1979,
+        "TotalPointCaptures": 26335,
+        "TotalUnitsBuilt": 404255,
+        "TotalUnitsLost": 274899,
+        "TotalUnitsDestroyed": 446303,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Shipmaster": {
+            "TotalTimePlayed": "P3DT10H30M38.466S",
+            "TotalMatchesStarted": 360,
+            "TotalMatchesCompleted": 297,
+            "TotalMatchesWon": 249,
+            "TotalMatchesLost": 111,
+            "TotalLeaderPowersCast": 2464
+          },
+          "Anders": {
+            "TotalTimePlayed": "P3DT4H23M8.846S",
+            "TotalMatchesStarted": 333,
+            "TotalMatchesCompleted": 286,
+            "TotalMatchesWon": 242,
+            "TotalMatchesLost": 91,
+            "TotalLeaderPowersCast": 9588
+          },
+          "Decimus": {
+            "TotalTimePlayed": "P3DT23H33M52.348S",
+            "TotalMatchesStarted": 440,
+            "TotalMatchesCompleted": 378,
+            "TotalMatchesWon": 311,
+            "TotalMatchesLost": 129,
+            "TotalLeaderPowersCast": 4574
+          },
+          "Cutter": {
+            "TotalTimePlayed": "P10DT17H13M14.831S",
+            "TotalMatchesStarted": 1192,
+            "TotalMatchesCompleted": 1006,
+            "TotalMatchesWon": 874,
+            "TotalMatchesLost": 318,
+            "TotalLeaderPowersCast": 8430
+          },
+          "Forge": {
+            "TotalTimePlayed": "P6DT19H46M51.341S",
+            "TotalMatchesStarted": 670,
+            "TotalMatchesCompleted": 506,
+            "TotalMatchesWon": 417,
+            "TotalMatchesLost": 253,
+            "TotalLeaderPowersCast": 4650
+          },
+          "Atriox": {
+            "TotalTimePlayed": "P7DT23H28M46.246S",
+            "TotalMatchesStarted": 757,
+            "TotalMatchesCompleted": 653,
+            "TotalMatchesWon": 488,
+            "TotalMatchesLost": 269,
+            "TotalLeaderPowersCast": 5327
+          },
+          "Kinsano": {
+            "TotalTimePlayed": "P4DT6H32M41.055S",
+            "TotalMatchesStarted": 446,
+            "TotalMatchesCompleted": 370,
+            "TotalMatchesWon": 311,
+            "TotalMatchesLost": 135,
+            "TotalLeaderPowersCast": 5072
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "P2DT16H8M19.913S",
+            "TotalMatchesStarted": 275,
+            "TotalMatchesCompleted": 235,
+            "TotalMatchesWon": 188,
+            "TotalMatchesLost": 87,
+            "TotalLeaderPowersCast": 2254
+          },
+          "Johnson": {
+            "TotalTimePlayed": "P1DT15H6M30.155S",
+            "TotalMatchesStarted": 161,
+            "TotalMatchesCompleted": 125,
+            "TotalMatchesWon": 112,
+            "TotalMatchesLost": 49,
+            "TotalLeaderPowersCast": 1995
+          },
+          "Jerome": {
+            "TotalTimePlayed": "P7DT23H6M3.441S",
+            "TotalMatchesStarted": 894,
+            "TotalMatchesCompleted": 798,
+            "TotalMatchesWon": 673,
+            "TotalMatchesLost": 221,
+            "TotalLeaderPowersCast": 36154
+          },
+          "Arbiter": {
+            "TotalTimePlayed": "P1DT16H39M52.982S",
+            "TotalMatchesStarted": 182,
+            "TotalMatchesCompleted": 130,
+            "TotalMatchesWon": 120,
+            "TotalMatchesLost": 62,
+            "TotalLeaderPowersCast": 3534
+          },
+          "YapYap": {
+            "TotalTimePlayed": "P6DT2H56M33.164S",
+            "TotalMatchesStarted": 756,
+            "TotalMatchesCompleted": 698,
+            "TotalMatchesWon": 623,
+            "TotalMatchesLost": 133,
+            "TotalLeaderPowersCast": 24570
+          },
+          "Serina": {
+            "TotalTimePlayed": "P1DT1H5M46.734S",
+            "TotalMatchesStarted": 126,
+            "TotalMatchesCompleted": 108,
+            "TotalMatchesWon": 99,
+            "TotalMatchesLost": 27,
+            "TotalLeaderPowersCast": 956
+          },
+          "Pavium": {
+            "TotalTimePlayed": "P2DT12H58M2.665S",
+            "TotalMatchesStarted": 287,
+            "TotalMatchesCompleted": 274,
+            "TotalMatchesWon": 243,
+            "TotalMatchesLost": 44,
+            "TotalLeaderPowersCast": 2644
+          },
+          "Voridus": {
+            "TotalTimePlayed": "PT14H37.438S",
+            "TotalMatchesStarted": 69,
+            "TotalMatchesCompleted": 56,
+            "TotalMatchesWon": 49,
+            "TotalMatchesLost": 20,
+            "TotalLeaderPowersCast": 729
+          },
+          "Isabel": {
+            "TotalTimePlayed": "P1DT31M49.142S",
+            "TotalMatchesStarted": 115,
+            "TotalMatchesCompleted": 92,
+            "TotalMatchesWon": 85,
+            "TotalMatchesLost": 30,
+            "TotalLeaderPowersCast": 1006
+          }
+        },
+        "GameMode": 3,
+        "HighestObjectiveScoreByTeamSize": {
+          "2": 200,
+          "3": 200,
+          "1": 200
+        }
+      },
+      {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT2H6M6.825S",
+        "TotalMatchesStarted": 9,
+        "TotalMatchesCompleted": 6,
+        "TotalMatchesWon": 5,
+        "TotalMatchesLost": 4,
+        "TotalPointCaptures": 69,
+        "TotalUnitsBuilt": 599,
+        "TotalUnitsLost": 284,
+        "TotalUnitsDestroyed": 579,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {
+          "Forge": {
+            "TotalTimePlayed": "PT1H9M52.27S",
+            "TotalMatchesStarted": 5,
+            "TotalMatchesCompleted": 3,
+            "TotalMatchesWon": 3,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 24
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT16M50.138S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 64
+          },
+          "Cutter": {
+            "TotalTimePlayed": "PT16M19.109S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 5
+          },
+          "Atriox": {
+            "TotalTimePlayed": "PT10M59.429S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 2
+          },
+          "Shipmaster": {
+            "TotalTimePlayed": "PT12M5.879S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 4
+          }
+        },
+        "GameMode": 4,
+        "HighestObjectiveScoreByTeamSize": {
+          "2": 4610
+        }
+      }
+    ]
+  }
+}

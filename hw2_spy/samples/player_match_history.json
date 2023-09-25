@@ -1,0 +1,1644 @@
+{
+    "Start": 0,
+    "Count": 25,
+    "ResultCount": 25,
+    "Results": [
+        {
+            "MatchId": "bc300422-8c60-45b2-8784-5356f7d235c0",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "2": {
+                    "TeamSize": 3
+                },
+                "1": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Boneyard\\MP_Boneyard",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-09-12T20:44:44.554Z"
+            },
+            "PlayerMatchDuration": "PT20M25.6833781S",
+            "PlayerIndex": 2,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 13,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 2,
+            "XPProgress": {
+                "PreviousTotalXP": 4494111,
+                "GameplayXP": 600,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4494711,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1606,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 754
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1581,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 3.0057215048204204,
+                    "Variance": 0.054353531075593313,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 2.9830878097071731,
+                    "Variance": 0.054261331276538309,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "42c3f421-f4fd-47e9-ba8b-0527ba5afd62",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": null,
+            "PlaylistId": "282fc197-7bf1-4865-81ec-a312d07567b6",
+            "Teams": {
+                "2": {
+                    "TeamSize": 3
+                },
+                "1": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Fracture\\MP_Fracture",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-09-12T20:28:10.516Z"
+            },
+            "PlayerMatchDuration": "PT12M28.796835S",
+            "PlayerIndex": 5,
+            "TeamId": 2,
+            "TeamPlayerIndex": 1,
+            "LeaderId": 14,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4493311,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4494111,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": null,
+                "UpdatedCsr": null,
+                "PreviousMmr": {
+                    "Rating": 4.2714629935051152,
+                    "Variance": 0.13201368840905439,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.2744308233419659,
+                    "Variance": 0.1319038235637125,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "30e107e4-7569-493f-af49-83aa1db96299",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "2": {
+                    "TeamSize": 3
+                },
+                "1": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Veteran\\MP_Veteran",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-09-12T20:21:24.926Z"
+            },
+            "PlayerMatchDuration": "PT28.3209176S",
+            "PlayerIndex": 2,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 7,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4492511,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4493311,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1590,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1606,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 754
+                },
+                "PreviousMmr": {
+                    "Rating": 2.9957398520746188,
+                    "Variance": 0.054395404387527227,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 3.0057215048204204,
+                    "Variance": 0.054353531075593313,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "408ed8cc-1ed1-4fe9-a8d6-bfa5a2f39729",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "2": {
+                    "TeamSize": 3
+                },
+                "1": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Bridges\\MP_Bridges",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-09-12T20:03:55.754Z"
+            },
+            "PlayerMatchDuration": "PT11M40.3612138S",
+            "PlayerIndex": 2,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 11,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4491711,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4492511,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1570,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1590,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 2.9829112177714192,
+                    "Variance": 0.054452234094417726,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 2.9957398520746188,
+                    "Variance": 0.054395404387527227,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "9dfdf137-1c8a-4a53-bb2a-4e747efb3465",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "548d864e-8666-430e-9140-8dd2ad8fbfcd",
+            "Teams": {
+                "1": {
+                    "TeamSize": 1
+                },
+                "2": {
+                    "TeamSize": 1
+                }
+            },
+            "MapId": "skirmish\\design\\Ep02_M03\\Ep02_M03",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-09-10T15:45:12.456Z"
+            },
+            "PlayerMatchDuration": "PT4M55.8962048S",
+            "PlayerIndex": 1,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 15,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4490011,
+                "GameplayXP": 800,
+                "ChallengesXP": 500,
+                "UpdatedTotalXP": 4491311,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2313,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 56
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2314,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 56
+                },
+                "PreviousMmr": {
+                    "Rating": 4.6777677664094277,
+                    "Variance": 0.050019614447849158,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.6784292203999254,
+                    "Variance": 0.050080973332431354,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "abe2de86-b50e-4594-b0be-e8eb488642a2",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "548d864e-8666-430e-9140-8dd2ad8fbfcd",
+            "Teams": {
+                "1": {
+                    "TeamSize": 1
+                },
+                "2": {
+                    "TeamSize": 1
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Fracture\\MP_Fracture",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-09-01T17:27:22.677Z"
+            },
+            "PlayerMatchDuration": "PT9M11.320495S",
+            "PlayerIndex": 1,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 14,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4489211,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4490011,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2312,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 56
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2313,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 56
+                },
+                "PreviousMmr": {
+                    "Rating": 4.6761256932497695,
+                    "Variance": 0.05,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.6777677664094277,
+                    "Variance": 0.050019614447849158,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "ea0a5d4b-8010-406a-bf0e-621c29b7518f",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "1": {
+                    "TeamSize": 3
+                },
+                "2": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Razorblade\\MP_Razorblade",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-31T19:48:36.546Z"
+            },
+            "PlayerMatchDuration": "PT33M34.1363735S",
+            "PlayerIndex": 2,
+            "TeamId": 2,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 6,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4487611,
+                "GameplayXP": 800,
+                "ChallengesXP": 400,
+                "UpdatedTotalXP": 4488811,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1560,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1570,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 2.9764394977190736,
+                    "Variance": 0.054466919778801477,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 2.9829112177714192,
+                    "Variance": 0.054452234094417726,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "144bdc14-d0ed-4da3-b7f5-8565f52cd33f",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "1": {
+                    "TeamSize": 3
+                },
+                "2": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Razorblade\\MP_Razorblade",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-31T19:30:10.756Z"
+            },
+            "PlayerMatchDuration": "PT14M24.729366S",
+            "PlayerIndex": 1,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 6,
+            "PlayerCompletedMatch": false,
+            "PlayerMatchOutcome": 2,
+            "XPProgress": {
+                "PreviousTotalXP": 4487611,
+                "GameplayXP": 0,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4487611,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1583,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1560,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 2.9967229947915266,
+                    "Variance": 0.054552123282063804,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 2.9764394977190736,
+                    "Variance": 0.054466919778801477,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "e933fea8-b6e5-4d53-838f-b461aeb74155",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "379f9ee5-92ec-45d9-b5e5-9f30236cab00",
+            "Teams": {
+                "2": {
+                    "TeamSize": 2
+                },
+                "1": {
+                    "TeamSize": 2
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Fracture\\MP_Fracture",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-26T20:53:31.624Z"
+            },
+            "PlayerMatchDuration": "PT7M22.9809831S",
+            "PlayerIndex": 1,
+            "TeamId": 2,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 9,
+            "PlayerCompletedMatch": false,
+            "PlayerMatchOutcome": 2,
+            "XPProgress": {
+                "PreviousTotalXP": 4487611,
+                "GameplayXP": 0,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4487611,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2239,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 44
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2215,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 49
+                },
+                "PreviousMmr": {
+                    "Rating": 4.4490942761052974,
+                    "Variance": 0.055563673832893984,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.4267708200253679,
+                    "Variance": 0.05538845014789695,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "017857e4-c5c1-4751-ac9b-3dbe59d6bad2",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "1": {
+                    "TeamSize": 3
+                },
+                "2": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Caldera\\MP_Caldera",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-26T20:32:52.481Z"
+            },
+            "PlayerMatchDuration": "PT17M32.6948517S",
+            "PlayerIndex": 1,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 6,
+            "PlayerCompletedMatch": false,
+            "PlayerMatchOutcome": 2,
+            "XPProgress": {
+                "PreviousTotalXP": 4487611,
+                "GameplayXP": 0,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4487611,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1597,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1583,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 3.0083486042425407,
+                    "Variance": 0.054609043406516629,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 2.9967229947915266,
+                    "Variance": 0.054552123282063804,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "f1c017cd-4f29-4e9f-be14-1e260e78ea46",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "2": {
+                    "TeamSize": 3
+                },
+                "1": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Caldera\\MP_Caldera",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-26T20:16:07.735Z"
+            },
+            "PlayerMatchDuration": "PT12M40.8433411S",
+            "PlayerIndex": 3,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 6,
+            "PlayerCompletedMatch": false,
+            "PlayerMatchOutcome": 2,
+            "XPProgress": {
+                "PreviousTotalXP": 4487611,
+                "GameplayXP": 0,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4487611,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1612,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 740
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1597,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 3.0222883537114185,
+                    "Variance": 0.054672150740241988,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 3.0083486042425407,
+                    "Variance": 0.054609043406516629,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "d27b0b49-1f2d-4cb6-9f14-ed4225a5c6ca",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "2": {
+                    "TeamSize": 3
+                },
+                "1": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Boneyard\\MP_Boneyard",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-25T21:23:43.008Z"
+            },
+            "PlayerMatchDuration": "PT34M47.3977283S",
+            "PlayerIndex": 2,
+            "TeamId": 2,
+            "TeamPlayerIndex": 1,
+            "LeaderId": 2,
+            "PlayerCompletedMatch": false,
+            "PlayerMatchOutcome": 2,
+            "XPProgress": {
+                "PreviousTotalXP": 4487611,
+                "GameplayXP": 0,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4487611,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1641,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 647
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1612,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 740
+                },
+                "PreviousMmr": {
+                    "Rating": 3.0536830090327762,
+                    "Variance": 0.054780701863245816,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 3.0222883537114185,
+                    "Variance": 0.054672150740241988,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "c1aeb419-b0d1-43c9-9ccc-89ccf212d406",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "1": {
+                    "TeamSize": 3
+                },
+                "2": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Bridges\\MP_Bridges",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-25T21:10:36.964Z"
+            },
+            "PlayerMatchDuration": "PT9M58.2399243S",
+            "PlayerIndex": 1,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 9,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4486811,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4487611,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1637,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 658
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1641,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 647
+                },
+                "PreviousMmr": {
+                    "Rating": 3.0499354197758852,
+                    "Variance": 0.054762841887214954,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 3.0536830090327762,
+                    "Variance": 0.054780701863245816,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "f663e813-4295-457f-b0f3-2ca8bc4df1ee",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "1": {
+                    "TeamSize": 3
+                },
+                "2": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Razorblade\\MP_Razorblade",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-24T19:02:05.413Z"
+            },
+            "PlayerMatchDuration": "PT12M12.3154796S",
+            "PlayerIndex": 1,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 1,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4486011,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4486811,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1624,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 698
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1637,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 660
+                },
+                "PreviousMmr": {
+                    "Rating": 3.0404946439141418,
+                    "Variance": 0.054800817914708838,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 3.0499354197758852,
+                    "Variance": 0.054762841887214954,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "66766c78-9623-4b4a-b680-6def0642e99c",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "1": {
+                    "TeamSize": 3
+                },
+                "2": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Razorblade\\MP_Razorblade",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-22T19:54:17.06Z"
+            },
+            "PlayerMatchDuration": "PT14M21.5690292S",
+            "PlayerIndex": 5,
+            "TeamId": 2,
+            "TeamPlayerIndex": 1,
+            "LeaderId": 11,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4485211,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4486011,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1615,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 733
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1624,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 699
+                },
+                "PreviousMmr": {
+                    "Rating": 3.0334599589307865,
+                    "Variance": 0.054818874165466921,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 3.0404946439141418,
+                    "Variance": 0.054800817914708838,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "026a2932-bfd7-4971-bc47-326ba01aa42a",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "1": {
+                    "TeamSize": 3
+                },
+                "2": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Veteran\\MP_Veteran",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-22T19:30:05.3Z"
+            },
+            "PlayerMatchDuration": "PT19M35.1633117S",
+            "PlayerIndex": 4,
+            "TeamId": 2,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 7,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4484411,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4485211,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1612,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 740
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1615,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 733
+                },
+                "PreviousMmr": {
+                    "Rating": 3.030501783870283,
+                    "Variance": 0.054789286706541505,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 3.0334599589307865,
+                    "Variance": 0.054818874165466921,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "1fe52110-361d-42b6-9631-db479ec0b95d",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "1": {
+                    "TeamSize": 3
+                },
+                "2": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Bridges\\MP_Bridges",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-22T19:10:51.672Z"
+            },
+            "PlayerMatchDuration": "PT15M25.3679922S",
+            "PlayerIndex": 1,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 6,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4483611,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4484411,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1608,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 747
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1612,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 740
+                },
+                "PreviousMmr": {
+                    "Rating": 3.0275550823694291,
+                    "Variance": 0.054761132221635547,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 3.030501783870283,
+                    "Variance": 0.054789286706541505,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "4874fa4b-495e-4e02-996c-b2fff4c7b024",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "379f9ee5-92ec-45d9-b5e5-9f30236cab00",
+            "Teams": {
+                "2": {
+                    "TeamSize": 2
+                },
+                "1": {
+                    "TeamSize": 2
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Eagle\\MP_Eagle",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-22T19:00:28.792Z"
+            },
+            "PlayerMatchDuration": "PT5M38.606728S",
+            "PlayerIndex": 1,
+            "TeamId": 2,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 2,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4482811,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4483611,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2238,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2239,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "PreviousMmr": {
+                    "Rating": 4.4490893175742174,
+                    "Variance": 0.055464046503763194,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.4490942761052974,
+                    "Variance": 0.055563673832893984,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "3916c30c-b4d1-4b1b-a154-780eb8ec9833",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "379f9ee5-92ec-45d9-b5e5-9f30236cab00",
+            "Teams": {
+                "1": {
+                    "TeamSize": 2
+                },
+                "2": {
+                    "TeamSize": 2
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Eagle\\MP_Eagle",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-22T18:51:02.155Z"
+            },
+            "PlayerMatchDuration": "PT5M2.202938S",
+            "PlayerIndex": 1,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 2,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4481611,
+                "GameplayXP": 800,
+                "ChallengesXP": 400,
+                "UpdatedTotalXP": 4482811,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2237,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2238,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "PreviousMmr": {
+                    "Rating": 4.4490810285097293,
+                    "Variance": 0.055364638420513181,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.4490893175742174,
+                    "Variance": 0.055464046503763194,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "bd3ac4b4-069a-494d-9d25-c5f386213d54",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "379f9ee5-92ec-45d9-b5e5-9f30236cab00",
+            "Teams": {
+                "1": {
+                    "TeamSize": 2
+                },
+                "2": {
+                    "TeamSize": 2
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Ricochet\\MP_Ricochet",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-19T21:30:23.891Z"
+            },
+            "PlayerMatchDuration": "PT16M7.1936949S",
+            "PlayerIndex": 1,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 8,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4480811,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4481611,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2236,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2237,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "PreviousMmr": {
+                    "Rating": 4.4475765398964473,
+                    "Variance": 0.055320601332017376,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.4490810285097293,
+                    "Variance": 0.055364638420513181,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "fb44661e-e367-455d-88c6-f8eb35900eaa",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "379f9ee5-92ec-45d9-b5e5-9f30236cab00",
+            "Teams": {
+                "2": {
+                    "TeamSize": 2
+                },
+                "1": {
+                    "TeamSize": 2
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Bridges\\MP_Bridges",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-19T21:25:52.162Z"
+            },
+            "PlayerMatchDuration": "PT5.4473684S",
+            "PlayerIndex": 3,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 11,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4480011,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4480811,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2235,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2236,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "PreviousMmr": {
+                    "Rating": 4.4473842589315833,
+                    "Variance": 0.055230753785975778,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.4475765398964473,
+                    "Variance": 0.055320601332017376,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "eec7423d-5224-42ec-bf1d-143305d07470",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+            "Teams": {
+                "2": {
+                    "TeamSize": 3
+                },
+                "1": {
+                    "TeamSize": 3
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Bridges\\MP_Bridges",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-19T21:21:16.511Z"
+            },
+            "PlayerMatchDuration": "PT2M3.3081484S",
+            "PlayerIndex": 1,
+            "TeamId": 2,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 12,
+            "PlayerCompletedMatch": false,
+            "PlayerMatchOutcome": 2,
+            "XPProgress": {
+                "PreviousTotalXP": 4480011,
+                "GameplayXP": 0,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4480011,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1624,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 701
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1608,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 749
+                },
+                "PreviousMmr": {
+                    "Rating": 3.0418811044096241,
+                    "Variance": 0.054826345112957052,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 3.0275550823694291,
+                    "Variance": 0.054761132221635547,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "a4d576fd-1a24-463f-906d-96aeba58593f",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "379f9ee5-92ec-45d9-b5e5-9f30236cab00",
+            "Teams": {
+                "2": {
+                    "TeamSize": 2
+                },
+                "1": {
+                    "TeamSize": 2
+                }
+            },
+            "MapId": "skirmish\\design\\MC_EnforcerValley\\MC_EnforcerValley",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-19T20:56:02.873Z"
+            },
+            "PlayerMatchDuration": "PT17M27.179633S",
+            "PlayerIndex": 1,
+            "TeamId": 2,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 1,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4479211,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4480011,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2232,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2235,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "PreviousMmr": {
+                    "Rating": 4.4416996770958654,
+                    "Variance": 0.05526978705424368,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.4473842589315833,
+                    "Variance": 0.055230753785975778,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "70ec1aae-43a6-4793-8d12-9f0fa973533e",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "379f9ee5-92ec-45d9-b5e5-9f30236cab00",
+            "Teams": {
+                "1": {
+                    "TeamSize": 2
+                },
+                "2": {
+                    "TeamSize": 2
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Boneyard\\MP_Boneyard",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-19T20:45:50.795Z"
+            },
+            "PlayerMatchDuration": "PT5M48.5436238S",
+            "PlayerIndex": 1,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 1,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4478411,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4479211,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2231,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 46
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2232,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 45
+                },
+                "PreviousMmr": {
+                    "Rating": 4.4414791716577895,
+                    "Variance": 0.055179918169872409,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.4416996770958654,
+                    "Variance": 0.05526978705424368,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        {
+            "MatchId": "2d0f1dbb-6b14-4010-b5e4-a7b3cea82934",
+            "MatchType": 3,
+            "GameMode": 3,
+            "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+            "PlaylistId": "379f9ee5-92ec-45d9-b5e5-9f30236cab00",
+            "Teams": {
+                "2": {
+                    "TeamSize": 2
+                },
+                "1": {
+                    "TeamSize": 2
+                }
+            },
+            "MapId": "skirmish\\design\\MP_Ricochet\\MP_Ricochet",
+            "MatchStartDate": {
+                "ISO8601Date": "2023-08-19T20:34:02.71Z"
+            },
+            "PlayerMatchDuration": "PT6M49.8365107S",
+            "PlayerIndex": 3,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 1,
+            "PlayerCompletedMatch": true,
+            "PlayerMatchOutcome": 1,
+            "XPProgress": {
+                "PreviousTotalXP": 4477611,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4478411,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2230,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 46
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 7,
+                    "Raw": 2231,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 46
+                },
+                "PreviousMmr": {
+                    "Rating": 4.4395167714379289,
+                    "Variance": 0.055148936706480439,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 4.4414791716577895,
+                    "Variance": 0.055179918169872409,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        }
+    ],
+    "Links": {}
+}

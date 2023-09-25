@@ -1,0 +1,1366 @@
+{
+    "MatchId": "bc300422-8c60-45b2-8784-5356f7d235c0",
+    "MatchType": 3,
+    "GameMode": 3,
+    "SeasonId": "85230310-c1ab-4da6-a177-e2a3da97ca2d",
+    "PlaylistId": "4a2cedcc-9098-4728-886f-60649896278d",
+    "MapId": "skirmish\\design\\MP_Boneyard\\MP_Boneyard",
+    "IsMatchComplete": true,
+    "MatchEndReason": 1,
+    "VictoryCondition": 1,
+    "MatchStartDate": {
+        "ISO8601Date": "2023-09-12T20:44:44.554Z"
+    },
+    "MatchDuration": "PT20M20.65S",
+    "Teams": {
+        "2": {
+            "TeamSize": 3,
+            "MatchOutcome": 1,
+            "ObjectiveScore": 0
+        },
+        "1": {
+            "TeamSize": 3,
+            "MatchOutcome": 2,
+            "ObjectiveScore": 0
+        }
+    },
+    "Players": {
+        "1": {
+            "IsHuman": true,
+            "HumanPlayerId": {
+                "Gamertag": "Yitanbg1",
+                "Xuid": null
+            },
+            "ComputerPlayerId": null,
+            "ComputerDifficulty": null,
+            "TeamId": 2,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 9,
+            "PlayerCompletedMatch": true,
+            "TimeInMatch": "PT20M20.65S",
+            "PlayerMatchOutcome": 1,
+            "PointStats": {
+                "hook_bldg_EnergyCapturePoint_01": {
+                    "TimesCaptured": 4
+                }
+            },
+            "UnitStats": {
+                "unsc_inf_generic_marine": {
+                    "TotalBuilt": 5,
+                    "TotalLost": 7,
+                    "TotalDestroyed": 16
+                },
+                "for_air_sentinel_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 8
+                },
+                "unsc_inf_flameMarine_01": {
+                    "TotalBuilt": 4,
+                    "TotalLost": 4,
+                    "TotalDestroyed": 0
+                },
+                "cov_inf_generic_grunt": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 11
+                },
+                "unsc_inf_serina_cryomarines_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 11
+                },
+                "cov_veh_bruteChopper_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "pow_gp_returned_plasma_01": {
+                    "TotalBuilt": 60,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 0
+                },
+                "unsc_inf_sniper_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 1
+                },
+                "unsc_air_nightingale_01": {
+                    "TotalBuilt": 7,
+                    "TotalLost": 6,
+                    "TotalDestroyed": 2
+                },
+                "unsc_inf_omegateam_jerome_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 0
+                },
+                "unsc_veh_jerome_mantis_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "unsc_veh_foxcannon_01": {
+                    "TotalBuilt": 5,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 4
+                },
+                "cov_inf_atrioxchosen_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "cov_veh_prowler_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 4
+                },
+                "unsc_bldg_victoryTurret_01": {
+                    "TotalBuilt": 4,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "unsc_inf_spartan_mpalice_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 5
+                },
+                "unsc_veh_warthog_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 12
+                },
+                "unsc_veh_scorpion_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 3,
+                    "TotalDestroyed": 9
+                },
+                "unsc_inf_omegateam_robert_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "unsc_inf_omegateam_leon_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 0
+                },
+                "unsc_inf_omegateam_august_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 0
+                },
+                "unsc_air_serina_pegasus_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_inf_engineer_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 7
+                },
+                "unsc_bldg_command_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_bldg_dropTurret_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "pow_gp_laserbarrage_01": {
+                    "TotalBuilt": 9,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 0
+                },
+                "cov_veh_wraith_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 11
+                },
+                "cov_veh_gorgon_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_bldg_serina_iceblock_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "unsc_veh_serina_hero_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "unsc_bldg_vehicledepot_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "unsc_bldg_minibase1sock_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "unsc_veh_wolverine_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_bldg_watchtower_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_bldg_supplypad_02": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "vfx_shielddomedissolve": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_bldg_turretAV_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                }
+            },
+            "CardStats": {},
+            "WaveStats": {},
+            "LeaderPowerStats": {
+                "Jerome_VictoryMine1": {
+                    "TimesCast": 9
+                },
+                "Jerome_VictoryMine_Inspiration1": {
+                    "TimesCast": 21
+                },
+                "Jerome_Barrage1": {
+                    "TimesCast": 4
+                },
+                "Jerome_Salvo_Inspiration1": {
+                    "TimesCast": 60
+                },
+                "UnscJeromeMechDrop": {
+                    "TimesCast": 1
+                },
+                "Jerome_VictoryTurret1": {
+                    "TimesCast": 4
+                },
+                "Jerome_Omegateam": {
+                    "TimesCast": 1
+                },
+                "UnscJeromeMechDrop2": {
+                    "TimesCast": 1
+                },
+                "UnscMedDrones1_MP": {
+                    "TimesCast": 2
+                },
+                "UnscHeroism1": {
+                    "TimesCast": 1
+                }
+            },
+            "XPProgress": {
+                "PreviousTotalXP": 4656002,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4656802,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1560,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1587,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 2.3623417889774645,
+                    "Variance": 0.05,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 2.383162602883528,
+                    "Variance": 0.05,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        "2": {
+            "IsHuman": true,
+            "HumanPlayerId": {
+                "Gamertag": "L1am Wh1te",
+                "Xuid": null
+            },
+            "ComputerPlayerId": null,
+            "ComputerDifficulty": null,
+            "TeamId": 1,
+            "TeamPlayerIndex": 0,
+            "LeaderId": 13,
+            "PlayerCompletedMatch": true,
+            "TimeInMatch": "PT20M20.65S",
+            "PlayerMatchOutcome": 2,
+            "PointStats": {
+                "hook_bldg_EnergyCapturePoint_01": {
+                    "TimesCaptured": 4
+                }
+            },
+            "UnitStats": {
+                "unsc_inf_generic_marine": {
+                    "TotalBuilt": 12,
+                    "TotalLost": 14,
+                    "TotalDestroyed": 11
+                },
+                "for_air_sentinel_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 7
+                },
+                "unsc_inf_serina_cryomarines_01": {
+                    "TotalBuilt": 14,
+                    "TotalLost": 14,
+                    "TotalDestroyed": 0
+                },
+                "unsc_bldg_serina_iceblock_01": {
+                    "TotalBuilt": 21,
+                    "TotalLost": 8,
+                    "TotalDestroyed": 0
+                },
+                "unsc_inf_sniper_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 1
+                },
+                "unsc_inf_flameMarine_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 4
+                },
+                "unsc_veh_serina_hero_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 0
+                },
+                "cov_inf_generic_grunt": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "cov_inf_lekgologoliath_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 5
+                },
+                "unsc_veh_warthog_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 9
+                },
+                "unsc_veh_foxcannon_01": {
+                    "TotalBuilt": 8,
+                    "TotalLost": 6,
+                    "TotalDestroyed": 3
+                },
+                "cov_inf_generic_suicideGrunt": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_veh_scorpion_01": {
+                    "TotalBuilt": 10,
+                    "TotalLost": 7,
+                    "TotalDestroyed": 8
+                },
+                "unsc_bldg_dropTurret_01": {
+                    "TotalBuilt": 3,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 0
+                },
+                "pow_gp_scatterbombDummy_01": {
+                    "TotalBuilt": 6,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 0
+                },
+                "unsc_air_serina_pegasus_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 0
+                },
+                "unsc_veh_jerome_mantis_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_air_nightingale_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 3
+                },
+                "unsc_bldg_command_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "unsc_inf_omegateam_robert_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_veh_gorgon_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 6
+                },
+                "cov_veh_wraith_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 12
+                },
+                "cov_inf_impervioushunter_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "unsc_bldg_vehicledepot_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_bldg_minibase1sock_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "pow_gp_cryostormDummy_01": {
+                    "TotalBuilt": 46,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 0
+                },
+                "unsc_bldg_watchtower_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 0
+                },
+                "unsc_bldg_turretAV_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "unsc_bldg_supplypad_02": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                }
+            },
+            "CardStats": {},
+            "WaveStats": {},
+            "LeaderPowerStats": {
+                "Serina_IceBlock1": {
+                    "TimesCast": 7
+                },
+                "UnscMedDrones1_MP": {
+                    "TimesCast": 3
+                },
+                "UnscTurretDrop1": {
+                    "TimesCast": 3
+                },
+                "Serina_FrostDrop": {
+                    "TimesCast": 2
+                },
+                "Serina_CryoStorm": {
+                    "TimesCast": 1
+                },
+                "Serina_CryoStorm_Extended": {
+                    "TimesCast": 1
+                }
+            },
+            "XPProgress": {
+                "PreviousTotalXP": 4494111,
+                "GameplayXP": 600,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 4494711,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1606,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 754
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1581,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 3.0057215048204204,
+                    "Variance": 0.054353531075593313,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 2.9830878097071731,
+                    "Variance": 0.054261331276538309,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        "3": {
+            "IsHuman": true,
+            "HumanPlayerId": {
+                "Gamertag": "cole nyx6466",
+                "Xuid": null
+            },
+            "ComputerPlayerId": null,
+            "ComputerDifficulty": null,
+            "TeamId": 1,
+            "TeamPlayerIndex": 1,
+            "LeaderId": 5,
+            "PlayerCompletedMatch": true,
+            "TimeInMatch": "PT20M20.65S",
+            "PlayerMatchOutcome": 2,
+            "PointStats": {
+                "hook_bldg_EnergyCapturePoint_01": {
+                    "TimesCaptured": 4
+                }
+            },
+            "UnitStats": {
+                "cov_veh_bruteChopper_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "cov_inf_generic_grunt": {
+                    "TotalBuilt": 10,
+                    "TotalLost": 13,
+                    "TotalDestroyed": 4
+                },
+                "for_air_sentinel_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 6
+                },
+                "unsc_inf_flameMarine_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 3
+                },
+                "unsc_inf_generic_marine": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 10
+                },
+                "cov_veh_prowler_01": {
+                    "TotalBuilt": 6,
+                    "TotalLost": 4,
+                    "TotalDestroyed": 2
+                },
+                "cov_inf_engineer_01": {
+                    "TotalBuilt": 9,
+                    "TotalLost": 8,
+                    "TotalDestroyed": 3
+                },
+                "cov_inf_lekgologoliath_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 5
+                },
+                "cov_inf_atrioxchosen_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 0
+                },
+                "unsc_veh_warthog_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 15
+                },
+                "cov_veh_wraith_01": {
+                    "TotalBuilt": 20,
+                    "TotalLost": 14,
+                    "TotalDestroyed": 7
+                },
+                "cov_veh_gorgon_01": {
+                    "TotalBuilt": 4,
+                    "TotalLost": 4,
+                    "TotalDestroyed": 2
+                },
+                "unsc_bldg_victoryTurret_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_air_nightingale_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 6
+                },
+                "unsc_veh_scorpion_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 12
+                },
+                "unsc_inf_omegateam_robert_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_bldg_temple_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "cov_inf_impervioushunter_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_bldg_turret_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "cov_bldg_heavyfactory_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "cov_bldg_lightfactory_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "cov_bldg_supplyDepot_02": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "unsc_veh_mongoose_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                }
+            },
+            "CardStats": {},
+            "WaveStats": {},
+            "LeaderPowerStats": {
+                "CovStructuralShielding1": {
+                    "TimesCast": 1
+                },
+                "CovCleansingBeamPath1_MP": {
+                    "TimesCast": 3
+                },
+                "CovTeleport1": {
+                    "TimesCast": 1
+                },
+                "CovPlanetaryCleansing": {
+                    "TimesCast": 1
+                }
+            },
+            "XPProgress": {
+                "PreviousTotalXP": 3612300,
+                "GameplayXP": 600,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 3612900,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1616,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": 723
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 6,
+                    "Raw": 1591,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 3.1642508226922028,
+                    "Variance": 0.057307834823031055,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 3.1403869074080077,
+                    "Variance": 0.057194214203650284,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        "4": {
+            "IsHuman": true,
+            "HumanPlayerId": {
+                "Gamertag": "WayfarerVII",
+                "Xuid": null
+            },
+            "ComputerPlayerId": null,
+            "ComputerDifficulty": null,
+            "TeamId": 2,
+            "TeamPlayerIndex": 1,
+            "LeaderId": 2,
+            "PlayerCompletedMatch": true,
+            "TimeInMatch": "PT20M20.65S",
+            "PlayerMatchOutcome": 1,
+            "PointStats": {
+                "hook_bldg_EnergyCapturePoint_01": {
+                    "TimesCaptured": 4
+                }
+            },
+            "UnitStats": {
+                "unsc_inf_generic_marine": {
+                    "TotalBuilt": 6,
+                    "TotalLost": 8,
+                    "TotalDestroyed": 11
+                },
+                "for_air_sentinel_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_inf_spartan_mpalice_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 5
+                },
+                "cov_veh_bruteChopper_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_inf_generic_grunt": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 8
+                },
+                "unsc_inf_serina_cryomarines_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 6
+                },
+                "unsc_veh_warthog_01": {
+                    "TotalBuilt": 15,
+                    "TotalLost": 15,
+                    "TotalDestroyed": 16
+                },
+                "unsc_air_nightingale_01": {
+                    "TotalBuilt": 5,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 2
+                },
+                "cov_inf_atrioxchosen_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 3
+                },
+                "cov_veh_prowler_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 4
+                },
+                "unsc_bldg_serina_iceblock_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 7
+                },
+                "unsc_veh_scorpion_01": {
+                    "TotalBuilt": 24,
+                    "TotalLost": 9,
+                    "TotalDestroyed": 4
+                },
+                "cov_veh_gorgon_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 6
+                },
+                "unsc_veh_mongoose_01": {
+                    "TotalBuilt": 4,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 1
+                },
+                "cov_veh_wraith_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 14
+                },
+                "cov_inf_engineer_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 9
+                },
+                "unsc_bldg_minibase1sock_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "vfx_shielddomedissolve": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "unsc_veh_wolverine_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 5
+                },
+                "cov_bldg_temple_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_bldg_turret_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_bldg_heavyfactory_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_bldg_lightfactory_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_bldg_supplyDepot_02": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_bldg_dropTurret_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_veh_serina_hero_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_bldg_supplypad_02": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "unsc_veh_foxcannon_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 3
+                },
+                "unsc_bldg_turretAV_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_bldg_watchtower_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                }
+            },
+            "CardStats": {},
+            "WaveStats": {},
+            "LeaderPowerStats": {
+                "UnscLotusMines1_MP": {
+                    "TimesCast": 11
+                },
+                "UnscGhostInTheMachine": {
+                    "TimesCast": 2
+                },
+                "UnscHeavyMetal01": {
+                    "TimesCast": 2
+                },
+                "UnscMacBlast1": {
+                    "TimesCast": 1
+                }
+            },
+            "XPProgress": {
+                "PreviousTotalXP": 2013367,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 2014167,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 5,
+                    "Raw": 0,
+                    "PercentToNextTier": 0,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 5,
+                    "Raw": 0,
+                    "PercentToNextTier": 52,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 0.591087304739069,
+                    "Variance": 0.05,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 0.61190811864513228,
+                    "Variance": 0.05,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        "5": {
+            "IsHuman": true,
+            "HumanPlayerId": {
+                "Gamertag": "CausingAnt72028",
+                "Xuid": null
+            },
+            "ComputerPlayerId": null,
+            "ComputerDifficulty": null,
+            "TeamId": 2,
+            "TeamPlayerIndex": 2,
+            "LeaderId": 12,
+            "PlayerCompletedMatch": true,
+            "TimeInMatch": "PT20M20.65S",
+            "PlayerMatchOutcome": 1,
+            "PointStats": {
+                "hook_bldg_EnergyCapturePoint_01": {
+                    "TimesCaptured": 4
+                }
+            },
+            "UnitStats": {
+                "cov_inf_generic_grunt": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 4,
+                    "TotalDestroyed": 1
+                },
+                "unsc_inf_generic_marine": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 12
+                },
+                "cov_veh_skitterer_01": {
+                    "TotalBuilt": 5,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 0
+                },
+                "cov_inf_lekgologoliath_01": {
+                    "TotalBuilt": 5,
+                    "TotalLost": 5,
+                    "TotalDestroyed": 0
+                },
+                "unsc_inf_serina_cryomarines_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 9
+                },
+                "cov_veh_bruteChopper_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_inf_generic_suicideGrunt": {
+                    "TotalBuilt": 6,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 1
+                },
+                "unsc_inf_sniper_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_veh_prowler_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 4
+                },
+                "unsc_bldg_command_03": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_veh_wraith_01": {
+                    "TotalBuilt": 18,
+                    "TotalLost": 10,
+                    "TotalDestroyed": 6
+                },
+                "unsc_inf_spartan_mpalice_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 3
+                },
+                "unsc_veh_warthog_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 14
+                },
+                "cov_veh_scarab_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 0
+                },
+                "cov_inf_impervioushunter_01": {
+                    "TotalBuilt": 3,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 0
+                },
+                "cov_veh_gorgon_01": {
+                    "TotalBuilt": 6,
+                    "TotalLost": 6,
+                    "TotalDestroyed": 0
+                },
+                "unsc_air_hornet_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "unsc_veh_serina_hero_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_veh_wolverine_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 3
+                },
+                "unsc_air_nightingale_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 3
+                },
+                "cov_inf_engineer_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 4
+                },
+                "unsc_bldg_watchtower_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_air_serina_pegasus_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_veh_foxcannon_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 3
+                },
+                "unsc_veh_scorpion_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                }
+            },
+            "CardStats": {},
+            "WaveStats": {},
+            "LeaderPowerStats": {
+                "LekgoloPincerBeam1": {
+                    "TimesCast": 3
+                },
+                "LekgoloSwarmHeal1": {
+                    "TimesCast": 2
+                },
+                "CovTeleport1": {
+                    "TimesCast": 2
+                },
+                "LekgoloPincerBeam2": {
+                    "TimesCast": 1
+                }
+            },
+            "XPProgress": {
+                "PreviousTotalXP": 1206500,
+                "GameplayXP": 800,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 1207300,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 1,
+                    "Designation": 4,
+                    "Raw": 0,
+                    "PercentToNextTier": 26,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "UpdatedCsr": {
+                    "Tier": 1,
+                    "Designation": 4,
+                    "Raw": 0,
+                    "PercentToNextTier": 80,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 0.33971973575696129,
+                    "Variance": 0.05,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 0.36054054966302462,
+                    "Variance": 0.05,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        },
+        "6": {
+            "IsHuman": true,
+            "HumanPlayerId": {
+                "Gamertag": "DenaryMercury48",
+                "Xuid": null
+            },
+            "ComputerPlayerId": null,
+            "ComputerDifficulty": null,
+            "TeamId": 1,
+            "TeamPlayerIndex": 2,
+            "LeaderId": 2,
+            "PlayerCompletedMatch": false,
+            "TimeInMatch": "PT19M9.471S",
+            "PlayerMatchOutcome": 2,
+            "PointStats": {
+                "hook_bldg_EnergyCapturePoint_01": {
+                    "TimesCaptured": 4
+                }
+            },
+            "UnitStats": {
+                "unsc_inf_generic_marine": {
+                    "TotalBuilt": 12,
+                    "TotalLost": 9,
+                    "TotalDestroyed": 10
+                },
+                "unsc_inf_spartan_mpalice_01": {
+                    "TotalBuilt": 6,
+                    "TotalLost": 5,
+                    "TotalDestroyed": 0
+                },
+                "for_air_sentinel_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 3
+                },
+                "unsc_inf_serina_cryomarines_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "cov_inf_generic_grunt": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 3
+                },
+                "cov_inf_lekgologoliath_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 5
+                },
+                "unsc_bldg_command_03": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "unsc_veh_warthog_01": {
+                    "TotalBuilt": 17,
+                    "TotalLost": 17,
+                    "TotalDestroyed": 13
+                },
+                "unsc_air_nightingale_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 7
+                },
+                "unsc_bldg_victoryTurret_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_veh_wolverine_01": {
+                    "TotalBuilt": 5,
+                    "TotalLost": 5,
+                    "TotalDestroyed": 0
+                },
+                "unsc_inf_sniper_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "unsc_air_hornet_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 0
+                },
+                "unsc_inf_flameMarine_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 2
+                },
+                "unsc_veh_jerome_mantis_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_inf_atrioxchosen_01": {
+                    "TotalBuilt": 1,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "cov_veh_wraith_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 6
+                },
+                "cov_veh_gorgon_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 2,
+                    "TotalDestroyed": 2
+                },
+                "unsc_bldg_minibase1sock_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "cov_inf_impervioushunter_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "cov_bldg_heavyfactory_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 1
+                },
+                "unsc_veh_scorpion_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 8
+                },
+                "unsc_veh_mongoose_01": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 1
+                },
+                "unsc_bldg_supplypad_02": {
+                    "TotalBuilt": 0,
+                    "TotalLost": 1,
+                    "TotalDestroyed": 0
+                },
+                "unsc_veh_foxcannon_01": {
+                    "TotalBuilt": 2,
+                    "TotalLost": 0,
+                    "TotalDestroyed": 0
+                }
+            },
+            "CardStats": {},
+            "WaveStats": {},
+            "LeaderPowerStats": {
+                "UnscHoloDecoy1_MP": {
+                    "TimesCast": 4
+                },
+                "UnscMacBlast1": {
+                    "TimesCast": 3
+                },
+                "UnscMedDrones1_MP": {
+                    "TimesCast": 3
+                },
+                "UnscGhostInTheMachine": {
+                    "TimesCast": 1
+                }
+            },
+            "XPProgress": {
+                "PreviousTotalXP": 708500,
+                "GameplayXP": 0,
+                "ChallengesXP": 0,
+                "UpdatedTotalXP": 708500,
+                "CompletedSpartanRanks": [],
+                "RanksCompleted": []
+            },
+            "RatingProgress": {
+                "PreviousCsr": {
+                    "Tier": 2,
+                    "Designation": 4,
+                    "Raw": 0,
+                    "PercentToNextTier": 96,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "UpdatedCsr": {
+                    "Tier": 2,
+                    "Designation": 4,
+                    "Raw": 0,
+                    "PercentToNextTier": 42,
+                    "MeasurementMatchesRemaining": 0,
+                    "Rank": null
+                },
+                "PreviousMmr": {
+                    "Rating": 0.32032878676053117,
+                    "Variance": 0.05,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                },
+                "UpdatedMmr": {
+                    "Rating": 0.29960272643387986,
+                    "Variance": 0.05,
+                    "LastModifiedDate": {
+                        "ISO8601Date": ""
+                    }
+                }
+            }
+        }
+    }
+}
