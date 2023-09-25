@@ -464,9 +464,12 @@ class HW2SpyApp(App):
             self.color = "red"
             self.add_class("red")
             self.remove_class("blue")
-        self.update_player_1()
-        self.update_player_2()
-        self.update_player_3()
+        if self.mode in ("1vs1", "2vs2", "3vs3"):
+            self.update_player_1()
+        if self.mode in ("2vs2", "3vs3"):
+            self.update_player_2()
+        if self.mode in ("3vs3"):
+            self.update_player_3()
 
     def action_input_gamertag_1(self) -> None:
         """Display the gamertag input."""
