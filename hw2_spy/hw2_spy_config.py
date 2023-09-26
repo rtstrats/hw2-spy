@@ -72,7 +72,19 @@ units: dict[str, str] = {
     "cov_inf_brutegrenadier_01": "Grenadier",
     "unsc_inf_spartan_mpdoug_01": "Douglas",
     "unsc_veh_scorpion_01": "Scorpion",
+    "cov_inf_generic_arbitergruntsquad": "cov_inf_generic_arbitergruntsquad",
+    "cov_inf_generic_arbiterenforcer": "cov_inf_generic_arbiterenforcer",
+    "fx_mine_arbiter_stasismine_01": "fx_mine_arbiter_stasismine_01",
+    "cov_veh_ghost_01": "cov_veh_ghost_01",
+    "cov_inf_eliteCommando_01": "cov_inf_eliteCommando_01",
+    "cov_air_shroud_01": "Shroud",
+    "unsc_air_serina_pegasus_01": "Frostraven",
+    "unsc_bldg_serina_iceblock_01": "unsc_bldg_serina_iceblock_01",
+    "fx_mine_unbrk_mine_01_mp": "fx_mine_unbrk_mine_01_mp",
+    "cov_air_blisterback_01": "Blisterback",
+    "cov_inf_bruteHonour_01": "cov_inf_bruteHonour_01",
 }
+
 
 ignored_units: list[str] = [
     "pow_gp_scatterbombDummy_01",
@@ -86,6 +98,8 @@ ignored_units: list[str] = [
     "cov_bldg_grunt_shieldtower_01",
     "fx_mine_plasma_01_mp",
     "fx_mine_rcontrolmine_01",
+    "fx_mine_unbrk_mine_01_mp",
+    "unsc_bldg_serina_iceblock_01",
 ]
 
 designations: dict[str, str] = {
