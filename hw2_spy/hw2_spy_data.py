@@ -597,16 +597,16 @@ class PlayerStats:
 
     @staticmethod
     def _translate_unit(unit_id: str) -> str:
-        if unit_id in hw2_spy_config.units:
-            return str(hw2_spy_config.units[unit_id])
+        units = hw2_spy_config.units
+        if unit_id in units:
+            return str(units[unit_id])
         # Add the key to the dictionary with a default value
-        hw2_spy_config.units[unit_id] = unit_id
+        units[unit_id] = unit_id
         # Update the config file with the new dictionary
         with open("hw2_spy_config.py") as config_file:
             config_content = config_file.read()
-        # new_config_content = config_content.replace("units = {", f"units = {str(hw2_spy_config.units)}")  # noqa: ERA001
-        # new_config_content = re.sub(r"units\s*=\s*{[^}]+}", f"units = {str(hw2_spy_config.units)}", config_content)  # noqa: ERA001
-        new_config_content = re.sub(r"units\s*=\s*{[^}]+}", f"units = {hw2_spy_config.units!s}", config_content)
+            new_units = f"units: dict[str, str] = {units!r}\n"
+            new_config_content = re.sub(r"units:\s+dict\[str, str\]\s+=\s+{[^}]+}", new_units, config_content)
         with open("hw2_spy_config.py", "w") as config_file:
             config_file.write(new_config_content)
         return unit_id

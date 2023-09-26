@@ -69,6 +69,9 @@ units: dict[str, str] = {
     "unsc_inf_spartan_mpjerome_01": "Jerome",
     "unsc_inf_odst_01": "ODST",
     "unsc_air_vulture_01": "Vulture",
+    "cov_inf_brutegrenadier_01": "Grenadier",
+    "unsc_inf_spartan_mpdoug_01": "Douglas",
+    "unsc_veh_scorpion_01": "Scorpion",
 }
 
 ignored_units: list[str] = [
