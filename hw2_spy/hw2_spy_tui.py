@@ -47,14 +47,14 @@ class AboutScreen(ModalScreen[str]):
         self.widget = Vertical(id="About")
         with self.widget:
             yield Static(
-                "[bold yellow]..:::==|[/] [bold magenta]HW2 Spy:[/][magenta] do the same, fail twice.[/] [bold yellow]|==:::..[/]",
+                "[bold yellow]..:::==|[/] [bold magenta]HW2 Spy (v1.0.0):[/][magenta] do the same, fail twice.[/] [bold yellow]|==:::..[/]",
                 classes="AboutMsg",
             )
             yield Static("Explore. React. Be nice. :thumbs_up:", classes="AboutMsg")
             yield Static("Created with passion for the game by Josep M. Homs in 2023", classes="AboutMsg")
             yield Static("If you like the project, please consider giving us a :star:", classes="AboutMsg")
             yield Static("or contribute at:", classes="AboutMsg")
-            yield Static("[blue]https://github.com/unchaindata/HW2-Spy[/]", classes="AboutMsg")
+            yield Static("[blue]https://github.com/rtstrats/hw2-spy[/]", classes="AboutMsg")
 
     def on_mount(self) -> None:
         """Execute actions on gamertag screen mount, i.e. define widget border title."""
