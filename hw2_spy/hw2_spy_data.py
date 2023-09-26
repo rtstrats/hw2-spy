@@ -165,7 +165,7 @@ class HW2Api:
                 # find the number of days when the file was modified
                 number_of_days: int = (datetime.datetime.now(tz=datetime.timezone.utc) - modification_date).days
                 if number_of_days > days_to_keep:
-                    # os.remove(file_path)  # noqa: ERA001
+                    os.remove(file_path)
                     logging.info(" Delete : %s", f)
 
     @staticmethod
