@@ -317,7 +317,9 @@ class HW2Api:
             # Look for the match in the cache
             script_file_path = os.path.abspath(__file__)
             script_directory = os.path.dirname(script_file_path)
-            file = os.path.join(script_directory, "cache/matches/events", match_id + ".json")
+            cache_match_event_folder = "cache/matches/events"
+            os.makedirs(cache_match_event_folder, exist_ok=True)
+            file = os.path.join(script_directory, cache_match_event_folder, match_id + ".json")
             try:
                 with open(file) as rfile:
                     match_events = json.load(rfile)
