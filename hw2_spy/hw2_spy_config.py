@@ -46,7 +46,7 @@ units: dict[str, str] = {
     "fx_mine_lotus_01_mp": "fx_mine_lotus_01_mp",
     "unsc_air_hornet_01": "Hornet",
     "unsc_air_nightingale_01": "Nightingale",
-    "cov_inf_gruntswarm_01": "cov_inf_gruntswarm_01",
+    "cov_inf_gruntswarm_01": "Fodder",
     "fx_mine_ambushmine_01": "fx_mine_ambushmine_01",
     "cov_inf_gruntswarm_01_frommine": "cov_inf_gruntswarm_01_frommine",
     "cov_inf_generic_heavygrunt": "HeavyGrunt",
