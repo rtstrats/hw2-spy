@@ -61,6 +61,12 @@ def main() -> None:  # noqa: PLR0915, PLR0912, C901
     )
     parser.usage = usage
     args = parser.parse_args()
+    
+    # Checks that no arguments have been passed
+    if len(sys.argv) < 2:
+        parser.print_help()
+        sys.exit(1)
+        
     # Validate the complex option relationships
     if args.green and not (args.cyan and args.blue):
         parser.error("-g option requires -b and -c")
