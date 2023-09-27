@@ -602,12 +602,16 @@ class PlayerStats:
             return str(units[unit_id])
         # Add the key to the dictionary with a default value
         units[unit_id] = unit_id
+        # Look for the config file independently from the execution dir
+        script_file_path = os.path.abspath(__file__)
+        script_directory = os.path.dirname(script_file_path)
+        file = os.path.join(script_directory, "hw2_spy_config.py")
         # Update the config file with the new dictionary
-        with open("hw2_spy_config.py") as config_file:
+        with open(file) as config_file:
             config_content = config_file.read()
             new_units = f"units: dict[str, str] = {units!r}\n"
             new_config_content = re.sub(r"units:\s+dict\[str, str\]\s+=\s+{[^}]+}", new_units, config_content)
-        with open("hw2_spy_config.py", "w") as config_file:
+        with open(file, "w") as config_file:
             config_file.write(new_config_content)
         return unit_id
 
