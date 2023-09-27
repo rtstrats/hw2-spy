@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hw2-spy"
-version = "0.1.0"
-description = "Get information on the last matches of a Halo Wars 2 player."
+version = "1.0.0"
+description = "Show curated information about the given Halo Wars 2 players, including a brief overview of their most recent matches' first 12 minutes, by accessing the public API available at https://developer.haloapi.com (a free subscription key is needed)."
 authors = ["Josep M Homs <jmhoms@gmail.com>"]
 license = "GPL-3.0"
 readme = "README.md"
@@ -54,8 +54,13 @@ no_implicit_optional = true
 warn_return_any = true
 warn_unused_ignores = true
 namespace-packages = true
-exclude = [".discarded", ".notes", "cache", "samples", "docs", "test"]
-modules = ["hw2_spy_config.py", "hw2_spy_tui.py"]
+exclude = ["cache", "samples", "docs", "test"]
+modules = [
+    "__main__.py",
+    "hw2_spy_config.py",
+    "hw2_spy_data.py",
+    "hw2_spy_tui.py",
+]
 
 [[tool.mypy.overrides]]
 module = "nontypedmodule.*"

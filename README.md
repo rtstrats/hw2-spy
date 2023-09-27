@@ -1,5 +1,5 @@
 # HW2-Spy
-Efficiently present concise information on the first 12 minutes of the most recent matches played by the specified Halo Wars 2 players by accessing the public API available at https://developer.haloapi.com (a free subscription key is needed).
+Show curated information about the given Halo Wars 2 players, including a brief overview of their most recent matches' first 12 minutes, by accessing the public API available at https://developer.haloapi.com (a free subscription key is needed).
 
 ## Usage examples
 
