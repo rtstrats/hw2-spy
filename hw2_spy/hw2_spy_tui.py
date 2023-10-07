@@ -44,10 +44,12 @@ class AboutScreen(ModalScreen[str]):
         Iterator[ComposeResult]
             Widgets forming the about message.
         """
+        # get the application version
+        version = hw2_spy_data.get_version_from_pyproject_toml()
         self.widget = Vertical(id="About")
         with self.widget:
             yield Static(
-                "[bold yellow]..:::==|[/] [bold magenta]HW2 Spy (v1.0.0):[/][magenta] do the same, fail twice.[/] [bold yellow]|==:::..[/]",
+                f"[bold yellow]..:::==|[/] [bold magenta]HW2 Spy (v{version}):[/][magenta] do the same, fail twice.[/] [bold yellow]|==:::..[/]",
                 classes="AboutMsg",
             )
             yield Static("Explore. React. Be nice. :thumbs_up:", classes="AboutMsg")

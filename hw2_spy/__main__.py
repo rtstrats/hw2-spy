@@ -40,6 +40,8 @@ def main() -> None:  # noqa: PLR0915, PLR0912, C901
     install(show_locals=True)
     # logging conf
     logging.basicConfig(filename="hw2_spy.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+    # get the application version
+    version = hw2_spy_data.get_version_from_pyproject_toml()
     # cmd parser
     parser = argparse.ArgumentParser(
         description="Halo Wars 2 Spy allows to fetch information about last matches of players."
@@ -58,7 +60,8 @@ def main() -> None:  # noqa: PLR0915, PLR0912, C901
     parser.add_argument("-j", "--json", action="store_true", help="Enable JSON mode")
     parser.add_argument("-k", "--key", nargs=1, help="Specify an API key")
     usage = (
-        """usage: hw2_spy.py [-h] (-r RED [-y YELLOW [-o ORANGE] ] | -b BLUE """
+        f"""HW2-Spy v.{version} \n"""
+        """hw2-spy [-h] (-r RED [-y YELLOW [-o ORANGE] ] | -b BLUE """
         """[-c CYAN [-g GREEN]]) [-k KEY] [--tui] [--web] [--json]"""
     )
     parser.usage = usage

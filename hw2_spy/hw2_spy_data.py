@@ -12,10 +12,30 @@ from collections import deque
 from collections.abc import Iterable, Mapping
 from typing import Any
 
+import toml
 import urllib3
 from dateutil.parser import isoparse
 
 from hw2_spy import hw2_spy_config
+
+
+def get_version_from_pyproject_toml() -> str:
+    """Get the version definition from pyproject.toml file.
+
+    Returns
+    -------
+    str
+        version string
+    """
+    try:
+        script_directory = os.path.dirname(os.path.abspath(__file__))
+        parent_directory = os.path.dirname(script_directory)
+        file = os.path.join(parent_directory, "pyproject.toml")
+        with open(file) as toml_file:
+            pyproject_data = toml.load(toml_file)
+            return str(pyproject_data["tool"]["poetry"]["version"])
+    except (FileNotFoundError, KeyError):
+        return "?"
 
 
 class HW2Api:
