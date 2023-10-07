@@ -265,7 +265,7 @@ class HW2Api:
             url = f"https://www.haloapi.com/stats/hw2/playlist/{playlist}/rating?players={players}"
             headers = {"Ocp-Apim-Subscription-Key": self.key}
             self.throttle()
-            response = self.http.request("GET", url, headers=headers)
+            response = self.http.request("GET", url, headers=headers, redirect=False)
             self.register_call()
             if str(response.status) == "200":
                 ratings = json.loads(response.data)
@@ -299,7 +299,7 @@ class HW2Api:
             url = f"https://www.haloapi.com/stats/hw2/players/{gamertag}/matches?matchType=matchmaking"
             headers = {"Ocp-Apim-Subscription-Key": self.key}
             self.throttle()
-            response = self.http.request("GET", url, headers=headers)
+            response = self.http.request("GET", url, headers=headers, redirect=False)
             self.register_call()
             if str(response.status) == "200":
                 match_history = json.loads(response.data)
@@ -346,7 +346,7 @@ class HW2Api:
                 url = f"https://www.haloapi.com/stats/hw2/matches/{match_id}/events"
                 headers = {"Ocp-Apim-Subscription-Key": self.key}
                 self.throttle()
-                response = self.http.request("GET", url, headers=headers)
+                response = self.http.request("GET", url, headers=headers, redirect=False)
                 self.register_call()
                 if str(response.status) == "200":
                     match_events = json.loads(response.data)
