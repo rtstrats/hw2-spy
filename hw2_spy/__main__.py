@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """HW2_Spy main module."""
 import argparse
 import json
