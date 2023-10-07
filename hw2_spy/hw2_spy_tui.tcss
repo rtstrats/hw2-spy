@@ -891,7 +891,7 @@ Footer {
     background: $background;
     height: auto;
     margin: 1;
-    width: 40%;
+    width: 60%;
     padding: 1;
     border: double blue;
     content-align: center middle;
