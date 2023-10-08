@@ -1,7 +1,7 @@
 # HW2-Spy
 Show curated information about the given Halo Wars 2 players, including a brief overview of their most recent matches' first 12 minutes, by accessing the public API available at https://developer.haloapi.com (a free subscription key is needed).
 
-## Install
+## Install
 ```
 pipx ensurepath
 pipx install hw2-spy
