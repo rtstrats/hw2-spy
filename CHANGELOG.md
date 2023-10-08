@@ -6,6 +6,8 @@
 
 ### Bugfixes
 
+- Ensure cache path is created if it does not exist.
+
 ## [1.1.1] - 2023-10-08
 
 ### Bugfixes

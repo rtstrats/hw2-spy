@@ -173,6 +173,8 @@ class HW2Api:
         """
         # define the cache folder
         folder = os.path.join(os.path.dirname(__file__), "/cache/matches/events/")
+        # make sure it exists
+        os.makedirs(folder, exist_ok=True)
         # os.walk returns current path, its files and its folders
         for root, dirs, files in os.walk(folder, topdown=True):  # noqa: B007
             for f in files:
@@ -337,7 +339,10 @@ class HW2Api:
             # Look for the match in the cache
             script_file_path = os.path.abspath(__file__)
             script_directory = os.path.dirname(script_file_path)
-            file = os.path.join(script_directory, "cache/matches/events", match_id + ".json")
+            folder = os.path.join(script_directory, "cache/matches/events")
+            file = os.path.join(folder, match_id + ".json")
+            # make sure folder exists
+            os.makedirs(folder, exist_ok=True)
             try:
                 with open(file) as rfile:
                     match_events = json.load(rfile)
