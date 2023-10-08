@@ -1,10 +1,16 @@
-## [1.1.3] - 2023-10-08
+## [Unreleased]
+
+### Bugfixes
+
+- Readme and changelog format corrections.
+
+## [1.1.3] - 2023-10-08
 
 ### Bugfixes
 
 - Removed unneeded toml dependency.
 
-## [1.1.2] - 2023-10-08
+## [1.1.2] - 2023-10-08
 
 ### New features
 
