@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hw2-spy"
-version = "1.1.0"
+version = "1.1.1"
 description = "Show curated information about the given Halo Wars 2 players, including a brief overview of their most recent matches' first 12 minutes, by accessing the public API available at https://developer.haloapi.com (a free subscription key is needed)."
 authors = ["Josep M Homs <jmhoms@gmail.com>"]
 license = "GPL-3.0"
@@ -28,7 +28,7 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-hw2-spy = "hw2-spy.__main__:main"
+hw2-spy = "hw2_spy.__main__:main"
 
 [tool.ruff]
 target-version = "py310"

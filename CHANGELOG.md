@@ -1,3 +1,10 @@
+## [1.1.1] - 2023-10-08
+
+### Bugfixes
+
+- Fixed scripts definition in pyproject,toml
+- Rebuilt lockfile
+
 ## [1.1.0] - 2023-10-08
 
 ### New features
