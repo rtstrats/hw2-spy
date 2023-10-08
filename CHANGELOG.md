@@ -1,3 +1,11 @@
+## [Unreleased]
+
+### New features
+
+- Added install section and minor tweaks in README file.
+
+### Bugfixes
+
 ## [1.1.1] - 2023-10-08
 
 ### Bugfixes
