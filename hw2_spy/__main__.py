@@ -41,7 +41,7 @@ def main() -> None:  # noqa: PLR0915, PLR0912, C901
     # logging conf
     logging.basicConfig(filename="hw2_spy.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
     # get the application version
-    version = hw2_spy_data.get_version_from_pyproject_toml()
+    version = hw2_spy_data.get_version()
     # cmd parser
     parser = argparse.ArgumentParser(
         description="Halo Wars 2 Spy allows to fetch information about last matches of players."

@@ -1,4 +1,5 @@
 """HW2_Spy configuration file."""
+__version__ = "1.1.2"
 # api_key: str = "your_key_here"  # noqa: ERA001
 api_max_requests: int = 10
 api_interval_seconds: int = 10

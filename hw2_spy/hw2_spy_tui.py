@@ -45,7 +45,7 @@ class AboutScreen(ModalScreen[str]):
             Widgets forming the about message.
         """
         # get the application version
-        version = hw2_spy_data.get_version_from_pyproject_toml()
+        version = hw2_spy_data.get_version()
         self.widget = Vertical(id="About")
         with self.widget:
             yield Static(

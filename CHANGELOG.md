@@ -1,4 +1,4 @@
-## [Unreleased]
+## [1.1.2] - 2023-10-08
 
 ### New features
 
@@ -7,6 +7,7 @@
 ### Bugfixes
 
 - Ensure cache path is created if it does not exist.
+- Version now extracted from config file.
 
 ## [1.1.1] - 2023-10-08
 
